@@ -33,6 +33,23 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 415：九个不同服装姿势和表情的Q版贴纸 ](#prompt-415)
+*   [案例 414：干净柔和的米色工作室中的3x3照片 ](#prompt-414)
+*   [案例 413：铅笔风格的大头漫画 ](#prompt-413)
+*   [案例 412：3D漫画肖像 ](#prompt-412)
+*   [案例 411：一位女子从智能手机屏幕中走出 ](#prompt-411)
+*   [案例 410：被几个动物环绕的自拍风格照片 ](#prompt-410)
+*   [案例 409：大型胶囊形容器的品牌3D渲染图 ](#prompt-409)
+*   [案例 408：角色变成3D收藏级Q版人偶 ](#prompt-408)
+*   [案例 407：将明星变成趣味十足的3D卡通肖像 ](#prompt-407)
+*   [案例 406：一幅超写实全身肖像与路飞互动 ](#prompt-406)
+*   [案例 405：超逼真全身肖像与角色互动 ](#prompt-405)
+*   [案例 404：小巧可爱的等距视角 ](#prompt-404)
+*   [案例 403：一幅超写实细节丰富的水下特写肖像 ](#prompt-403)
+*   [案例 402：一位中年男子数字漫画 ](#prompt-402)
+*   [案例 401：年轻女子身穿深色连帽衫的特写肖像 ](#prompt-401)
+*   [案例 400：一张抓拍的年轻女子山间徒步照片 ](#prompt-400)
+*   [案例 399：年轻的东亚女性K-Pop偶像风格 ](#prompt-399)
 *   [案例 398：超大道具的影棚拍摄照片 ](#prompt-398)
 *   [案例 397：一张抓拍的年轻女子照片 ](#prompt-397)
 *   [案例 396：创建3D推特个人资料卡片 ](#prompt-396)
@@ -234,6 +251,567 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-415"></a>
+## 案例 415：九个不同服装姿势和表情的Q版贴纸 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1985738257708302430))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/415.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-九个不同服装姿势和表情的Q版贴纸">
+</div>
+
+**提示词：**
+```
+Create a 3D kawaii 10:16 canvas featuring nine chibi-style stickers in various outfits, poses, and expressions. Use the attached image for reference. Each sticker has a white border and includes a speech bubble with phrases like "Goodmorning", "Lunch kana", "Huh", "Hugs", "Thank you", "Goodnight", "You're the best" "miss you" "mwah 😙" "good job" and "Ingat ka". Set on a soft white-to-pastel blue gradient background for a fun, positive vibe.
+```
+
+**中文提示词：**
+```
+制作一个 10:16 的 3D 可爱画布，包含九个不同服装、姿势和表情的 Q 版贴纸。请参考附图。每个贴纸都有白色边框，并包含一个对话框，上面写着“早上好”、“午餐时间”、“嗯”、“抱抱”、“谢谢”、“晚安”、“你最棒了”、“想你”、“么😙 ”、“做得好”和“Ingat ka”（注意安全）。背景采用柔和的白色到淡蓝色渐变，营造轻松愉快的氛围。
+```
+
+<a id="prompt-414"></a>
+## 案例 414：干净柔和的米色工作室中的3x3照片 (来源 [@miilesus](https://x.com/miilesus/status/1981800648036561146))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/414.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-干净柔和的米色工作室中的3x3照片">
+</div>
+
+**提示词：**
+```
+Editorial 3x3 photo grid in a clean soft beige studio. Character (matches reference 100%) wearing lightweight dark navy shirt, ivory trousers, barefoot for raw simplicity. Lighting: large diffused key light directly front-right, silver reflector left, subtle rim from top. Shots to include: 1. extreme close-up of lips + cheekbone with blurred hand partially covering (85mm, f/1.8, razor-thin DOF); 2. tight crop on eyes looking into lens with reflection of light strip visible (85mm, f/2.0); 3. black & white close portrait resting chin on fist, face filling frame (50mm, f/2.2); 4. over-shoulder shot, blurred foreground fabric curtain framing half face (85mm, f/2.0); 5. very close frontal with hands overlapping face, light streak across eyes (50mm, f/2.5); 6. tight angled portrait showing hair falling into eyes, soft-focus background (85mm, f/2.2); 7. crop of hands touching jawline, eyes cropped out (50mm, f/3.2, detail-focused); 8. half-body seated sideways on low cube, head turned sharply away, blurred foreground (35mm, f/ 4.5); 9. intense close-up of profile with single tear-like water droplet, cinematic light slice across (85mm, f/ 1.9). Angles: mostly tight headshots with slight high/low tilts, maintaining variation. Capture RAW, professional muted grade, smooth tonal contrast, subtle cinematic grain. Mood: intimate, introspective, character-led editorial minimalism with delicate use of fabric as prop.
+```
+
+**中文提示词：**
+```
+干净柔和的米色工作室中的编辑 3x3 照片网格。人物（与参考 100 %)相匹配）身穿轻薄的深蓝色海军蓝衬衫、象牙色裤子，赤脚，呈现原始简约风​​格。灯光：右前方直接有大型漫射主光，左侧有银色反光板，顶部有微妙的边缘。拍摄内容包括：1. 嘴唇 + 颧骨的极端特写，手模糊部分遮盖（85mm，f/1.8，极薄景深）；2. 紧密裁剪眼睛，看着镜头，可见光带反射（85mm，f/2。 0) ；3. 黑白近距离肖像，下巴靠在拳头上，脸部充满画面（50mm，f/2.2）；4. 过肩镜头，模糊的前景织物窗帘框住半张脸（85mm，f/2。 0) ；5. 非常近的正面，双手重叠在脸上，光线穿过眼睛（50mm，f/2.5）；6. 紧密角度的肖像，显示头发落入眼睛，柔焦背景（85mm，f/2.2）；7. 裁剪至触及下颌线的手，眼睛被裁剪掉（50mm，f/3.2，注重细节）；8. 半身侧坐在矮柜上，头部急剧转向别处，前景模糊（35mm，f/4.5）；9. 侧面特写，一滴泪珠状水滴，电影般的光片划过（85mm，f/1.9）。角度：大多为近距离头像，略微高/低倾斜，保持变化。拍摄 RAW 格式，专业柔和等级，平滑的色调对比度，微妙的电影颗粒感。氛围：亲密、内省、以人物为主导的编辑极简主义，巧妙地使用织物作为道具。
+```
+
+<a id="prompt-413"></a>
+## 案例 413：铅笔风格的大头漫画 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1984828527687188684))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/413.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-铅笔风格的大头漫画">
+</div>
+
+**提示词：**
+```
+{
+"image_edit": {
+
+"subject": "uploaded_image",
+
+"Goal":"proportional composition of The whole body bottom to head is a caricature with the face and head exaggerated in the extremely shape of the eyes, nose, lips.",
+
+"style": "textured paper", "refine details, retain original charcoal structure and strong brushes pencil, aesthetic composition and expression, pure black, brushes stroke"
+
+{"style": "pencil brush stroke", "no types text", "position":" stylized near shoulder, aesthetic replacement, no right_bottom"
+
+},
+
+{
+
+"output":
+
+"a big head caricature." Ensure to create an image with a noticeably exaggerated head size for the caricature effect you desire, while retaining the charcoal and brush stroke style"
+
+}
+
+}
+```
+
+**中文提示词：**
+```
+{
+"image_edit": {
+
+主题：上传的图片，
+
+“目标”：“从下到头，全身比例构成一幅漫画，脸部和头部被极度夸张，眼睛、鼻子、嘴唇的形状都极度突出。”
+
+“风格”：“纹理纸”，“精细刻画细节，保留原有炭笔结构和强劲的笔触，美学构图和表现力，纯黑，笔触”
+
+{"style": "铅笔笔触", "无文字", "position":"肩部附近风格化，美学替换，无右下角"
+
+},
+
+{
+
+“输出”：
+
+“一幅大头漫画”。为了达到你想要的漫画效果，务必创作一幅头部明显夸张的图像，同时保留炭笔和笔触风格。
+
+}
+
+}
+```
+
+<a id="prompt-412"></a>
+## 案例 412：3D漫画肖像 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1984518065619681365))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/412.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3D漫画肖像">
+</div>
+
+**提示词：**
+```
+3D caricature portrait of [SUBJECT], Pixar/DreamWorks style — expressive eyes, slightly oversized head, exaggerated ears & nose, realistic skin shading with soft subsurface scattering, detailed hair, gentle warm smile, smooth polished materials, subtle fabric texture, soft ambient lighting, warm reddish-orange gradient background — balanced realism and stylized charm.
+```
+
+**中文提示词：**
+```
+[SUBJECT]的3D漫画肖像，皮克斯/梦工厂风格——富有表现力的眼睛，略微过大的头部，夸张的耳朵和鼻子，逼真的皮肤阴影和柔和的次表面散射，细致的头发，温柔温暖的微笑，光滑的抛光材质，微妙的织物纹理，柔和的环境光，温暖的红橙色渐变背景——平衡的现实主义和风格化的魅力。
+```
+
+<a id="prompt-411"></a>
+## 案例 411：一位女子从智能手机屏幕中走出 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1984477243968770374))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/411.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位女子从智能手机屏幕中走出">
+</div>
+
+**提示词：**
+```
+A hyperrealistic cinematic photo of a woman stepping out of a smartphone screen showing the Twitter profile [Shreyayadav___]. She’s captured mid-step, confidently emerging from the digital world into reality as the phone glass shatters with glowing fragments. Floating social media icons (hearts, comments, follows) surround her. She wears trendy streetwear with lifelike fabric and lighting reflections. The minimalist gradient studio background adds 3D depth.
+```
+
+**中文提示词：**
+```
+一张超写实的电影感照片，一位女子从智能手机屏幕中走出，屏幕上显示着她的推特个人资料[Shreyayadav ___ ]。照片捕捉到她迈步的瞬间，自信地从数字世界走向现实世界，手机屏幕破碎，碎片闪耀着光芒。漂浮的社交媒体图标（爱心、评论、关注）环绕着她。她身着时尚街头服饰，面料逼真，光线反射效果极佳。极简的渐变摄影棚背景增添了立体感。
+```
+
+<a id="prompt-410"></a>
+## 案例 410：被几个动物环绕的自拍风格照片 (来源 [@HustleXR](https://x.com/HustleXR/status/1984465896895889891))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/410.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-被几个动物环绕的自拍风格照片">
+</div>
+
+**提示词：**
+```
+A selfie-style shot of a smiling young man with dark hair and a beard, wearing a red and black plaid shirt. He is surrounded by several animated movie monsters, including Count Dracula, a mummy, a large blue furry monster resembling Sulley from Monsters Inc., a werewolf, and a smaller blue vampire bat character. They are all smiling and posing for the selfie. The background is a grand hall with stained-glass windows and chandeliers, resembling a gothic castle or church interior. The lighting is warm and inviting.
+```
+
+**中文提示词：**
+```
+一张自拍风格的照片，照片中一位笑容灿烂的年轻男子，留着深色头发和胡须，身穿红黑格子衬衫。他被几个动画电影中的怪物环绕，包括德古拉伯爵、木乃伊、一只体型庞大的蓝色毛茸茸怪物（类似《怪兽公司》里的苏利文）、狼人，以及一只体型较小的蓝色吸血蝙蝠。它们都面带微笑，摆着姿势自拍。背景是一个宏伟的大厅，配有彩色玻璃窗和枝形吊灯，宛如哥特式城堡或教堂内部。灯光温暖而温馨。
+```
+
+<a id="prompt-409"></a>
+## 案例 409：大型胶囊形容器的品牌3D渲染图 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1984265548251980140))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/409.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-大型胶囊形容器的品牌3D渲染图">
+</div>
+
+**提示词：**
+```
+Create a hyper-realistic 3D render of a large capsule-shaped container. The top half is solid and glossy in the brand’s signature color, featuring the official [BRAND] logo prominently. The bottom half is transparent, revealing multiple miniature famous products of this brand, [PRODUCT], neatly packed inside. Set against a dark background with cinematic lighting and soft reflections to create a premium, surreal advertising aesthetic. Ultra-detailed, professional product render style. 1080x1080 dimension
+```
+
+**中文提示词：**
+```
+制作一个超逼真的大型胶囊形容器的3D渲染图。上半部分为品牌标志性颜色的实心亮面材质，并醒目地印有[品牌]官方标识。下半部分为透明材质，展现出该品牌众多知名产品的微缩模型[产品]，整齐地包装在内。以深色背景搭配电影级灯光和柔和的反射效果，营造出高端超现实的广告美感。采用超精细的专业产品渲染风格。尺寸为1080x1080。
+```
+
+<a id="prompt-408"></a>
+## 案例 408：角色变成3D收藏级Q版人偶 (来源 [@aleenaamiir](https://x.com/aleenaamiir/status/1984585442487124448))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/408.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-角色变成3D收藏级Q版人偶">
+</div>
+
+**提示词：**
+```
+3D collectible chibi-style figure of [insert celebrity or character name], ultra-detailed, stylized proportions (large head, small body), expressive face, cinematic lighting, soft shadows, Pixar-quality realism, glossy vinyl toy texture, standing pose, high detail clothing, character-accurate outfit, professional product photography, rendered in Unreal Engine 5, on a minimal studio background, toy display aesthetic, 8K ultra realistic
+```
+
+**中文提示词：**
+```
+3D 收藏级 Q 版人偶，原型为[插入名人或角色名称]，细节丰富，比例协调（大头小身），面部表情生动，采用电影级光影效果，阴影柔和，呈现皮克斯级别的逼真度，触感光滑如乙烯基玩具，采用站姿，服装细节丰富，还原角色造型，专业产品摄影，使用虚幻引擎 5 渲染，背景简洁，呈现玩具展示美感，8K 超高清画质。
+```
+
+<a id="prompt-407"></a>
+## 案例 407：将明星变成趣味十足的3D卡通肖像 (来源 [@aleenaamiir](https://x.com/aleenaamiir/status/1985525539445297574))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/407.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将明星变成趣味十足的3D卡通肖像">
+</div>
+
+**提示词：**
+```
+Full-body 3D caricature of [Character Name] in Pixar/DreamWorks style, featuring expressive large eyes, slightly oversized head, and subtly exaggerated facial features. Realistic skin with soft subsurface scattering, detailed hair, and a gentle warm smile. Smooth polished surfaces with subtle fabric texture on clothing. Dynamic pose showing personality, with full body visible and balanced proportions. Soft ambient lighting, warm reddish-orange gradient background. Cinematic quality, high detail, vibrant yet natural colors, stylized charm with balanced realism.
+```
+
+**中文提示词：**
+```
+以皮克斯/梦工厂风格绘制的[角色名称]全身3D卡通形象，拥有富有表现力的大眼睛、略微夸张的头部和略微夸张的面部特征。逼真的肌肤呈现出柔和的次表面散射效果，头发细节丰富，笑容温暖而亲切。光滑的表面处理，服装上的织物纹理细腻。动态的姿态展现出鲜明的个性，全身清晰可见，比例均衡。柔和的环境光，温暖的红橙色渐变背景。电影级的品质，高度的细节刻画，鲜艳而自然的色彩，风格化的魅力与恰到好处的写实感完美融合。
+```
+
+<a id="prompt-406"></a>
+## 案例 406：一幅超写实全身肖像与路飞互动 (来源 [@ecommartinez](https://x.com/ecommartinez/status/1985805353901310327))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/406.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅超写实全身肖像与路飞互动">
+</div>
+
+**提示词：**
+```
+Ultra-realistic full-body portrait of the attached image. The person is interacting with Monkey D. Luffy in a front-facing pose, both standing side by side, smiling directly at the camera. Their body language is friendly and natural — Luffy’s arm rests around the person’s shoulder, while both share a joyful, relaxed laugh. Studio or neutral environment with soft cinematic lighting and a warm beige-to-burgundy gradient background. The person wears casual modern clothes: beige T-shirt, navy shorts, and white sneakers, while Luffy retains his original look — straw hat, red vest, blue shorts, yellow sash, and sandals. Expression and mood: happy, authentic, full of energy and camaraderie, captured in photorealistic textures, realistic lighting, and cinematic composition with high-fashion editorial quality.
+```
+
+**中文提示词：**
+```
+附图为一幅超写实全身肖像。图中人物与蒙奇·D·路飞正面互动，两人并肩而立，面带微笑地直视镜头。他们的肢体语言友好自然——路飞的手臂搭在人物的肩上，两人开怀大笑，轻松自在。拍摄环境为影棚或中性光线，柔和的电影级灯光，背景采用温暖的米色至酒红色渐变。人物身着休闲现代服饰：米色T恤、藏蓝色短裤和白色运动鞋，而路飞则保持着他标志性的造型——草帽、红色马甲、蓝色短裤、黄色腰带和凉鞋。人物的表情和情绪：快乐、真实、充满活力和友谊，以逼真的纹理、真实的灯光和电影级的构图捕捉，呈现出高级时尚杂志的品质。
+```
+
+<a id="prompt-405"></a>
+## 案例 405：超逼真全身肖像与角色互动 (来源 [@iUllr](https://x.com/iUllr/status/1985631195724431694))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/405.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真全身肖像与角色互动">
+</div>
+
+**提示词：**
+```
+Ultra-realistic full-body portrait of the attached image.
+The person is interacting with {fictional character} in a {pose/interaction type}.  
+Studio or neutral environment, soft cinematic lighting, {optional color palette}.  
+The person wears {clothing style and colors}, The fictional character retains its original appearance, including skin color, clothing, and signature features.  
+Expression and mood: {emotional tone}, captured in photorealistic textures, realistic lighting, cinematic composition, high fashion editorial quality.
+```
+
+**中文提示词：**
+```
+附图的超逼真全身肖像。
+该人正在以{姿势/互动类型}与{虚构角色}互动。
+摄影棚或中性环境，柔和的电影灯光，{可选调色板}。
+该人物穿着{服装款式和颜色}，虚构人物保留其原有的外貌，包括肤色、服装和标志性特征。
+表情和mood: {情感基调}，以逼真的纹理、逼真的光照、电影般的构图、高级时尚编辑品质捕捉。
+```
+
+<a id="prompt-404"></a>
+## 案例 404：小巧可爱的等距视角 (来源 [@AmirMushich](https://x.com/AmirMushich/status/1985740675871056194))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/404.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-小巧可爱的等距视角">
+</div>
+
+**提示词：**
+```
+Tiny cute isometric [CHARACTER or PRODUCT], soft lighting, soft pastel colors, 3d icon clay render, substance 3d, pastel background
+```
+
+**中文提示词：**
+```
+小巧可爱的等距视角[角色或产品]，柔和的光线，柔和的粉彩色调，3D图标粘土渲染，Substance 3D，粉彩背景
+```
+
+<a id="prompt-403"></a>
+## 案例 403：一幅超写实细节丰富的水下特写肖像 (来源 [@saniaspeaks_](https://x.com/saniaspeaks_/status/1985960595422867603))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/403.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅超写实细节丰富的水下特写肖像">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": {
+    "description": "Hyper-realistic, ultra-detailed close-up portrait of the left half of a young woman’s face submerged in water. One eye is in sharp focus. Light rays create caustic reflections and fluid patterns across her skin. Tiny suspended water droplets and bubbles add depth.",
+    "details": {
+      "subject": "Young woman's face, fair skin, focused eye (left)",
+      "pose": "Submerged in water",
+      "lighting": "Cinematic soft shadows with crisp highlights, light rays creating caustic patterns",
+      "attire": "Not visible, implied underwater setting",
+      "hair": "Dark hair visible on the right side, extending into the water",
+      "expression": "Calm and serene, with an intense gaze from the focused eye",
+      "mood": "Surreal, dreamlike, ethereal, and serene"
+    }
+  },
+  "image_settings": {
+    "size": "original",
+    "quantity": 1,
+    "style": "Underwater macro portrait photography",
+    "composition": "Close-up, with a shallow depth of field and an underwater macro perspective, emphasizing textures and light play. Cropped to show only the left half of the face.",
+    "aspect_ratio": "3:4"
+  },
+  "output_format": {
+    "type": "image",
+    "expected_result": "A visually striking and highly detailed underwater portrait, showcasing the interplay of light, water, and skin textures."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“迅速的”： {
+描述：一幅超写实、细节丰富的特写肖像，描绘了一位年轻女子浸在水中的左半边脸。她的一只眼睛清晰可见。光线在她皮肤上形成折射和流动的纹理。悬浮的细小水滴和气泡增添了画面的深度。
+“细节”： {
+“主题”：“年轻女子的脸，白皙的皮肤，专注的眼神（左）”
+“姿势”：“浸在水中”，
+“照明”：“电影般的柔和阴影，清晰的高光，光线营造出焦散图案”，
+“服装”：“不可见，暗示水下环境”，
+“头发”：“右侧可见深色头发，延伸到水中”，
+“表情”：“平静而安详，目光专注而锐利”，
+“氛围”：“超现实的、梦幻的、空灵的、宁静的”
+}
+},
+"image_settings": {
+"尺寸": "原尺寸",
+“数量”：1，
+“风格”：“水下微距人像摄影”，
+“构图”：“特写镜头，采用浅景深和水下微距视角，强调纹理和光影效果。裁剪后仅显示脸部的左半部分。”
+"aspect_ratio": "3:4"
+},
+"output_format": {
+"type": "image",
+"预期结果": "一幅视觉效果惊艳、细节丰富的水下肖像，展现了光线、水和皮肤纹理之间的相互作用。"
+}
+}
+```
+
+<a id="prompt-402"></a>
+## 案例 402：一位中年男子数字漫画 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1985908915427758305))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/402.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位中年男子数字漫画">
+</div>
+
+**提示词：**
+```
+Create a realistic digital caricature painting of a middle-aged man (attached photo) with a slightly oversized head, exuding charm and quiet confidence. He is dressed in a modern, stylish bomber jacket made of dark olive nylon with subtle reflective highlights that give it a sleek and fashionable look. Underneath, he wears a warm-toned flannel shirt slightly visible at the collar and cuffs, paired with khaki cargo pants and black sneakersthat ground the outfit with a casual yet confident energy. Completing his look, he wears a brown flat cap tilted slightly forward — a small detail that adds personality and flair.
+
+The man is portrayed in a mid-shot, adjusting his glasses with one hand while gazing directly at the viewer with a self-assured and composed expression. His head is slightly larger than normal, emphasizing his thoughtful character and giving the image a light caricature charm without losing realism.The facial expression radiates intelligence, humor, and approachability.
+
+The lighting is warm and soft, like that of a late afternoon sun filtering through a studio setup. Smooth gradual shadows enhance the contours of his face, while subtle highlights accentuate the texture of his bomber jacket and the reflection in his glasses. His skin tones glow naturally under the warm light, creating a pleasant sense of depth and realism.The background is a gradient of warm brown and beige hues, blending smoothly from light to dark. This background is simple yet elegant, allowing the subject to stand out while maintaining a professional, editorial quality.
+
+The art style should combine semi-realistic digital painting with the texture of oil brushstrokes, delivering a balanced fusion of realism and stylized charm.Clean outlines, smooth blending, and controlled highlights give the impression of a modern portrait illustration—detailed, expressive, and visually captivating.
+```
+
+**中文提示词：**
+```
+请创作一幅逼真的数字漫画，描绘一位中年男子（附图），他头部略大，散发着魅力和沉稳的自信。他身着一件现代时尚的深橄榄色尼龙飞行员夹克，夹克上点缀着低调的反光元素，更添几分精致格调。夹克内搭一件暖色调法兰绒衬衫，领口和袖口隐约可见，下身搭配卡其色工装裤和黑色运动鞋，整体造型休闲又不失自信。最后，他头戴一顶棕色鸭舌帽，帽檐略微前倾——这个小细节为他增添了个性和魅力。
+
+画面采用中景拍摄，男子一手扶着眼镜，一手直视镜头，神态自信沉稳。他的头部略大于常人，突显了他深思熟虑的性格，赋予画面一种略带漫画式的魅力，却又不失写实感。面部表情散发着智慧、幽默和亲切的气息。
+
+光线温暖柔和，如同午后阳光透过摄影棚洒下的光芒。平滑的阴影勾勒出他面部的轮廓，而微妙的高光则突显了他飞行员夹克的质感和眼镜上的反光。在暖光的映衬下，他的肤色自然透亮，营造出令人愉悦的立体感和真实感。背景由温暖的棕色和米色渐变而成，由浅至深自然过渡。这种背景简洁而优雅，既突出了拍摄对象，又保持了专业、时尚的质感。
+
+艺术风格应结合半写实的数字绘画和油画笔触的质感，呈现出写实与风格化魅力的平衡融合。清晰的轮廓、流畅的过渡和可控的高光，给人以现代肖像插画的印象——细节丰富、富有表现力且引人入胜。
+```
+
+<a id="prompt-401"></a>
+## 案例 401：年轻女子身穿深色连帽衫的特写肖像 (来源 [@saniaspeaks_](https://x.com/saniaspeaks_/status/1986010537310961720))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/401.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女子身穿深色连帽衫的特写肖像">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": {
+    "description": "A close-up portrait of a young woman in a dark hooded sweatshirt, with green digital code reflected on her face from a computer screen, set in a dark, urban environment with blurred city lights in the background.",
+    "details": {
+      "subject": "Young woman with a serious expression, olive skin, and visible facial features despite the reflections.",
+      "pose": "Facing directly towards the viewer, looking intently at the camera.",
+      "lighting": "Dramatic, low-key lighting, primarily from the green glow of a computer monitor reflecting on her face and some blurred, warm streetlights in the distant background.",
+      "attire": "Dark, large hooded sweatshirt, with the hood pulled up to cover her head, creating a sense of anonymity.",
+      "hair": "Long, dark hair partially visible beneath the hood.",
+      "expression": "Intense, focused, and slightly wary gaze, conveying a sense of concentration and maybe isolation.",
+      "mood": "Mysterious, intense, technologically-focused, reminiscent of a hacker or surveillance theme."
+    }
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quantity": 1,
+    "style": "Cinematic, dark and moody, high contrast with strong shadows and highlights from the screen, grainy texture.",
+    "composition": "Medium close-up, with the computer screen visible in the foreground (partially obscured) and blurred streetlights in the background through a window."
+  },
+  "output_format": {
+    "type": "image",
+    "expected_result": "A powerful and atmospheric image conveying themes of technology, surveillance, and urban mystery."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“迅速的”： {
+描述：一位年轻女子身穿深色连帽衫的特写肖像，电脑屏幕上的绿色数字代码反射在她的脸上，背景是昏暗的城市灯光，以及模糊的城市灯光。
+“细节”： {
+“主体”：“一位表情严肃、肤色呈橄榄色、面部特征清晰可见的年轻女子，尽管有反光，但她的面部特征依然清晰可见。”
+“姿势”：“正对观众，目光专注地注视镜头。”
+“灯光”：“戏剧性的低调灯光，主要来自电脑显示器反射在她脸上的绿色光晕，以及远处背景中模糊的暖色调路灯。”
+“着装”：“深色大号连帽衫，帽子拉起来遮住头，给人一种匿名感。”
+“头发”：“长长的黑发从兜帽下隐约可见。”
+“表情”：“目光专注、凝重，略带警惕，传达出一种专注和或许是孤寂的感觉。”
+“氛围”：“神秘、紧张、以科技为中心，让人联想到黑客或监控主题。”
+}
+},
+"image_settings": {
+"size": "1024x1024",
+“数量”：1，
+“风格”：“电影感十足，阴暗忧郁，高对比度，屏幕阴影和高光强烈，颗粒感强。”
+“构图”：“中近景，前景可见电脑屏幕（部分被遮挡），背景中透过窗户可以看到模糊的路灯。”
+},
+"output_format": {
+"type": "image",
+"expected_result": "一幅充满力量和氛围的画面，传达了科技、监控和都市神秘的主题。"
+}
+}
+```
+
+<a id="prompt-400"></a>
+## 案例 400：一张抓拍的年轻女子山间徒步照片 (来源 [@MANISH1027512](https://x.com/MANISH1027512/status/1984610333831414061))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/400.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一张抓拍的年轻女子山间徒步照片">
+</div>
+
+**提示词：**
+```
+A natural grab shot of an alluring day-style woman hiking in the mountains, ponytail with bangs, flushed cheeks from exertion, in a sports bra top and leggings, pausing to look at the view, misty background with slight fog, captured mid-step for dynamic feel.
+```
+
+**中文提示词：**
+```
+一张自然抓拍的照片，展现了一位迷人的日间风格女性在山间徒步。她梳着带刘海的马尾辫，因运动而双颊泛红，穿着运动内衣和紧身裤，正停下来欣赏风景。背景薄雾朦胧，照片捕捉到她迈步的瞬间，营造出动态感。
+```
+
+<a id="prompt-399"></a>
+## 案例 399：年轻的东亚女性K-Pop偶像风格 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1985682978182480251))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/399.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻的东亚女性K-Pop偶像风格">
+</div>
+
+**提示词：**
+```
+{
+    "style_mode": "raw_photoreal_high_fidelity",
+    "look": "K-Pop idol aesthetic, flawless complexion, high-resolution digital photography, trendy",
+    "camera": {
+      "vantage": "slightly high angle (selfie perspective), direct address",
+      "framing": "extreme close-up (ECU), tight framing on the face and shoulders",
+      "lens_behavior": "portrait lens (e.g., 85mm prime), extremely shallow depth of field (DoF), sharp focus on the eyes",
+      "sensor_quality": "high fidelity, no digital noise"
+    }
+  },
+  "scene": {
+    "environment": {
+      "setting": "indoor studio or simple interior",
+      "lighting": "soft, even beauty lighting (e.g., large softbox or beauty dish), minimizing shadows, creating clear catchlights in the eyes, emphasizing glossy highlights"
+    },
+    "subject": {
+      "description": "young East Asian female, K-Pop idol styling",
+      "hair": "long, dark brown, wavy, glossy finish",
+      "expression": {
+        "mood": "playful, confident, slightly sultry",
+        "action": "looking directly into the lens, mouth slightly open, tongue slightly sticking out over the lower lip"
+      },
+      "makeup": {
+        "style": "contemporary K-beauty trends",
+        "complexion": "flawless, 'glass skin' effect, dewy/glossy finish, realistic micro-texture",
+        "cheeks": "rosy blush, high application",
+        "lips": "glossy, pink tint"
+      },
+      "attire": {
+        "top": "grey pinstriped halter top, structured design",
+        "details": "white contrasting collar lapel with silver snap buttons and circular metal hardware"
+      },
+      "accessories": {
+        "hair_clip": "decorative silver/rhinestone clip on her left side",
+        "earrings": "dangling silver earrings (heart motif)"
+      }
+    },
+    "background": {
+      "description": "plain, neutral grey or white wall, blurred (bokeh)"
+    }
+  },
+  "aesthetic_controls": {
+    "render_intent": "high-quality digital photograph suitable for promotional material or social media",
+    "material_fidelity": [
+      "realistic skin micro-texture (pores, gloss, makeup interaction)",
+      "individual hair strand detail",
+      "fabric texture of the pinstripe material",
+      "metallic shine of accessories"
+    ],
+    "color_grade": {
+      "overall": "neutral, slightly warm, vibrant skin tones, high clarity",
+      "contrast": "balanced"
+    }
+  },
+  "negative_prompt": {
+    "forbidden_elements": ["skin imperfections", "blemishes", "wrinkles", "harsh shadows", "textured/matte skin", "dry lips", "outdoor setting", "distorted features", "motion blur", "digital artifacts"],
+    "forbidden_style": ["anime", "painting", "illustration", "CGI render", "low resolution", "gritty realism", "vintage photography", "uncanny valley", "overly airbrushed/plastic skin"]
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"style_mode": "raw_photoreal_high_fidelity",
+“外观”：“K-Pop偶像美学，完美无瑕的肌肤，高分辨率数码摄影，时尚潮流”，
+“相机”： {
+“有利位置”：“略高的角度（自拍视角），直接面向”，
+“构图”：“极近特写（ECU），紧贴面部和肩膀构图”，
+"lens_behavior": "人像镜头（例如，85mm 定焦镜头），景深极浅，眼睛清晰对焦"
+"sensor_quality": "高保真，无数字噪声"
+}
+},
+“场景”： {
+“环境”： {
+“设置”: “室内工作室或简单的室内环境”
+“灯光”：“柔和均匀的美容灯光（例如，大型柔光箱或美容罩），最大限度地减少阴影，在眼睛中营造清晰的眼神光，强调光泽高光”
+},
+“主题”： {
+描述：年轻的东亚女性，K-Pop偶像风格
+“头发”：“长而深棕色，波浪状，有光泽”，
+“表达”： {
+“情绪”：“俏皮、自信、略带性感”，
+“动作”：“直视镜头，嘴巴微张，舌头微微伸出下唇”
+},
+“化妆品”： {
+“风格”：“当代韩国美妆潮流”，
+“肤色”： “无瑕、‘玻璃肌’效果、水润/光泽妆效、逼真的微观纹理”，
+“脸颊”：“玫瑰色腮红，涂抹较多”，
+“嘴唇”： “有光泽的粉红色”
+},
+着装：{
+“上衣”： “灰色细条纹露背上衣，结构化设计”
+“细节”：“白色撞色领翻领，配银色按扣和圆形金属配件”
+},
+“配件”： {
+"发夹": "左侧的装饰性银色/水钻发夹",
+“耳环”： “垂坠式银耳环（心形图案）”
+}
+},
+“背景”： {
+描述：素色、中性灰色或白色墙壁，虚化（散景）
+}
+},
+"aesthetic_controls": {
+"render_intent": "适用于宣传材料或社交媒体的高质量数码照片",
+"material_fidelity": [
+“逼真的皮肤微观纹理（毛孔、光泽、妆容互动）”，
+“单根发丝的细节”，
+“细条纹面料的织物纹理”，
+配饰的金属光泽
+],
+"color_grade": {
+“整体”：“中性、略带暖色调、充满活力的肤色、高清晰度”
+“对比”：“平衡”
+}
+},
+"negative_prompt": {
+"forbidden_​​elements": ["皮肤瑕疵", "斑点", "皱纹", "生硬阴影", "纹理/哑光皮肤", "嘴唇干燥", "户外环境", "面部扭曲", "动态模糊", "数码瑕疵"],
+"forbidden_​​style": ["动漫", "绘画", "插画", "CGI渲染", "低分辨率", "粗犷写实主义", "复古摄影", "恐怖谷效应", "过度修饰/塑料质感"]
+}
+}
+```
 
 <a id="prompt-398"></a>
 ## 案例 398：超大道具的影棚拍摄照片 (来源 [@Arminn_Ai](https://x.com/Arminn_Ai/status/1983963917425480087))

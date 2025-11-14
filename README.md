@@ -33,6 +33,16 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 425：穿着充气羽绒服的鸟儿 ](#prompt-425)
+*   [案例 424：一个可爱的拟人化动物 ](#prompt-424)
+*   [案例 423：一幅逼真的全身肖像 ](#prompt-423)
+*   [案例 422：逼真的高清全身漫画人物 ](#prompt-422)
+*   [案例 421：超逼真的野生动物摄影场景 ](#prompt-421)
+*   [案例 420：居家光影三联画 ](#prompt-420)
+*   [案例 419：年轻女子公交车上的窗户边 ](#prompt-419)
+*   [案例 418：将电影海报重新设计成黏土动画风格 ](#prompt-418)
+*   [案例 417：一幅超写实的高品质特写肖像 ](#prompt-417)
+*   [案例 416：夸张的高清全身漫画 ](#prompt-416)
 *   [案例 415：九个不同服装姿势和表情的Q版贴纸 ](#prompt-415)
 *   [案例 414：干净柔和的米色工作室中的3x3照片 ](#prompt-414)
 *   [案例 413：铅笔风格的大头漫画 ](#prompt-413)
@@ -251,6 +261,354 @@
 ---
 ## [点击：查看100-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-425"></a>
+## 案例 425：穿着充气羽绒服的鸟儿 (来源 [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/1987864542756679921))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/425.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-穿着充气羽绒服的鸟儿">
+</div>
+
+**提示词：**
+```
+A bird wearing an inflatable [COLOR] down jacket perched on the top of a dry tree branch. the background is a blurred green grassland, in the style of real photography with natural lighting.
+```
+
+**中文提示词：**
+```
+一只穿着充气[彩色]羽绒服的鸟栖息在枯树枝顶上。背景是模糊的绿色草地，采用自然光拍摄的真实照片风格。
+```
+
+<a id="prompt-424"></a>
+## 案例 424：一个可爱的拟人化动物 (来源 [@azed_ai](https://x.com/azed_ai/status/1987837427348799741))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/424.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一个可爱的拟人化动物">
+</div>
+
+**提示词：**
+```
+A cute anthropomorphic [subject] in triple view: front-left, front, and back. Standing upright with a plump body, expressive face, and wearing [clothing/style]. Cartoon mascot in 2D animation style, clean bold lines, flat shading with subtle gradients, soft outlines, and a light neutral background.
+```
+
+**中文提示词：**
+```
+一个可爱的拟人化[对象]，以三视图呈现：左前、正面和背面。它站立着，身体圆润，表情丰富，身着[服装/风格]。卡通吉祥物，采用二维动画风格，线条简洁有力，平涂阴影带有微妙的渐变，轮廓柔和，背景为浅色中性色。
+```
+
+<a id="prompt-423"></a>
+## 案例 423：一幅逼真的全身肖像 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1988227330947358728))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/423.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅逼真的全身肖像">
+</div>
+
+**提示词：**
+```
+A realistic full-body portrait of a [ARTIST] in their signature style, positioned next to a giant vertical smartphone displaying a Spotify interface. The phone screen shows a music player interface featuring the song “[SONG]” with signature [COLOR] accent colors at approximately 80% opacity for a premium aesthetic effect.
+The artist wears their characteristic outfit and styling. Their pose is confident and editorial, embodying the mood and energy of the song. Expression matches their iconic persona.
+Technical specifications:
+• Plain background with subtle [COLOR] lighting accents
+• Soft studio lighting with colored gels in signature [COLOR] tones
+• 35mm or 50mm lens, f/2.2, ISO 100-160, shutter speed 1/125
+• Sharp focus on subject and phone interface
+• Editorial style consistent with premium music platform campaigns
+```
+
+**中文提示词：**
+```
+一幅[艺术家]的逼真全身肖像，采用其标志性风格，旁边是一部巨大的竖屏智能手机，屏幕上显示着Spotify界面。手机屏幕上的音乐播放器界面以歌曲“[歌曲]”为特色，并采用标志性的[颜色]强调色，透明度约为80%，以营造高级美感。
+这位艺人身着标志性的服装，摆出自信而富有时尚感的姿势，完美诠释了歌曲的情绪和能量。他们的表情也与他们标志性的形象相得益彰。
+技术规格：
+• 纯色背景，带有柔和的[颜色]灯光点缀
+• 采用柔和的影棚灯光，搭配标志性的[COLOR]色调彩色滤光片
+• 35mm 或 50mm 镜头，f/2.2 光圈，ISO 100-160，快门速度 1/125 秒
+• 清晰聚焦于主体和手机界面
+• 编辑风格与高端音乐平台推广活动保持一致
+```
+
+<a id="prompt-422"></a>
+## 案例 422：逼真的高清全身漫画人物 (来源 [@kingofdairyque](https://x.com/kingofdairyque/status/1988599304991490363))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/422.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-逼真的高清全身漫画人物">
+</div>
+
+**提示词：**
+```
+A realistic HD full-body caricature of [Character], with [describe exaggerated physical features — e.g., oversized head, expressive eyes, exaggerated smile, etc.], showing [emotional expression — e.g., confident smirk, wild laughter, intense focus].
+They are wearing [detailed outfit description — e.g., a tailored black suit with gold accents, flowing red cape, futuristic armor, etc.] and performing an epic action — [e.g., leaping through flames, conducting an orchestra in a storm, breaking through walls, holding lightning in hand].
+Set in [location — e.g., neon-lit city, royal palace, desert battlefield, futuristic lab, etc.], under [lighting style — e.g., cinematic golden hour, dramatic spotlight, cool moonlight glow].
+The atmosphere feels [describe mood — e.g., heroic, intense, humorous, dramatic, chaotic].
+
+In the style of caricature realism, emphasize [expression details — e.g., wrinkles, skin texture, exaggerated smile lines, hair flow, muscle tension], with cinematic lighting, sharp focus, hyper-realistic rendering, and 3D caricature proportions.
+```
+
+**中文提示词：**
+```
+逼真的高清全身漫画人物[角色]，具有[描述夸张的身体特征——例如，过大的头部、有表现力的眼睛、夸张的笑容等]，展现[情绪表达——例如，自信的微笑、狂野的笑声、专注的神情]。
+他们穿着[详细的服装描述——例如，带有金色点缀的黑色定制西装、飘逸的红色披风、未来主义盔甲等]，并进行史诗般的动作——[例如，跃过火焰、在暴风雨中指挥交响乐团、破墙而入、手持闪电]。
+场景设定在[例如，霓虹闪烁的城市、皇家宫殿、沙漠战场、未来实验室等]，采用[例如，电影般的黄金时段、戏剧性的聚光灯、清冷的月光]照明风格。
+气氛感觉[描述情绪——例如，英雄的、激烈的、幽默的、戏剧性的、混乱的]。
+
+以漫画写实风格，强调[表情细节——例如皱纹、皮肤纹理、夸张的笑纹、头发的飘动、肌肉的紧张感]，采用电影般的照明、清晰的焦点、超现实的渲染和 3D 漫画比例。
+```
+
+<a id="prompt-421"></a>
+## 案例 421：超逼真的野生动物摄影场景 (来源 [@NanoBanana_labs](https://x.com/NanoBanana_labs/status/1988840767994126797))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/421.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超逼真的野生动物摄影场景">
+</div>
+
+**提示词：**
+```
+Ultra-realistic wildlife photography scene, (use reference face from uploaded photo). A man wearing proper wildlife-safari clothing — light brown outdoor shirt, rugged cargo pants, and sturdy field boots. He is lying flat on the grassy ground, holding a professional DSLR camera with a large telephoto lens, focusing on wildlife. On his shoulder sits a playful lion cub looking into the distance. Golden hour natural light, African savannah background, cinematic depth of field, 8K detail, vibrant colors. Keep my face 100% accurate. HD quality DSLR.
+```
+
+**中文提示词：**
+```
+超逼真的野生动物摄影场景（使用上传照片中的参考人脸）。一位身着专业野生动物狩猎服的男子——浅棕色户外衬衫、结实耐用的工装裤和厚实的野外靴。他平躺在草地上，手持一台配备长焦镜头的专业单反相机，正专注于拍摄野生动物。他的肩上趴着一只活泼的小狮子，正眺望着远方。拍摄于黄金时段的自然光线下，以非洲稀树草原为背景，拥有电影级的景深，8K超高清细节，色彩鲜艳。力求100%还原我的面部特征。高清单反拍摄。
+```
+
+<a id="prompt-420"></a>
+## 案例 420：居家光影三联画 (来源 [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO/status/1987128220030992892))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/420.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-居家光影三联画">
+</div>
+
+**中文提示词：**
+```
+整体构图与画面氛围
+
+三张图垂直排列，呈连续性肖像摄影的视觉叙事。环境是温暖、生活化的宜家风室内空间，背景有厨房、灯饰与家居物件，带有日常感与柔和自然光的氛围。光线从侧前方照射，亮度柔和，使皮肤质感呈现出细腻、自然的光泽。
+
+整体色调偏冷白色，营造出轻快、清新且柔软的情绪。
+
+人物姿态与表情变化
+
+三张图记录了同一个人物在不同瞬间的表情变化，整体呈现：
+1.第一张：表情略带可爱与调皮，冲镜头飞吻。肩膀自然放松，呈正面角度。
+2.第二张：人物略侧身，头微微倾斜，眼神柔软而带有轻微情绪暗示，像是从静止过渡到微笑之间的瞬间。
+3.第三张：人物更加放松，露出温柔的笑容。头发自然散落，姿态轻松，呈现出自信与自在的状态。
+
+这种 “从冷静 → 轻松 → 微笑” 的表情变化，让整组照片呈现出一种动态叙事感。
+
+光影与肤质表现
+•光线均匀柔和，无明显强阴影。
+•光照角度使脸颊与鼻梁形成非常轻微的立体阴影，突显面部轮廓但不过度锐利。
+•肤色自然，有细腻的反光，呈现柔焦般的质感，带一点胶片或日系滤镜效果。
+
+服装与材质表现
+
+人物穿着浅灰蓝色吊带上衣，肩带纤细，布料柔软且贴身，反射柔和的光泽。在光线下呈现轻柔的高光，强调曲线线条。色彩与背景保持低饱和度一致，画面显得干净。
+
+头发自然散落，有轻微的蓬松与空气感，质地柔软，有光线透过发丝的柔和层次。
+
+五官比例与视线表达
+•眼睛略大，眼型柔和，眼尾微微延展，眼神富有交流感；
+•鼻梁细直且自然；
+•唇部丰润，唇色浅粉，随着表情变化在不同图中呈现不同质感；
+•面部比例均衡，视觉重心集中在眼神与微笑的变化。
+
+整体呈现一种亲和、明亮、带情绪表达的肖像风格。
+
+情绪与风格总结
+
+这组照片像是在记录一个人在阳光午后、刚睡醒或者刚准备开始一天时的松弛瞬间。
+氛围是自然、温暖、轻松、无防备感的美。
+
+画面没有刻意摆拍或华丽修饰，而是以光线和表情捕捉真实与柔软的瞬间。
+```
+
+<a id="prompt-419"></a>
+## 案例 419：年轻女子公交车上的窗户边 (来源 [@miilesus](https://x.com/miilesus/status/1986833636193189893))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/419.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女子公交车上的窗户边">
+</div>
+
+**提示词：**
+```
+{
+    "promptDetails": {
+        "description": "A prompt to *create a new scene* by placing a subject (based on a reference photo) into a new atmospheric background, then overlaying a music UI.",
+        "styleTags": [
+            "Aesthetic Edit",
+            "Cinematic",
+            "Scene Compositing",
+            "Glassmorphism"
+        ]
+    },
+    "subjectReference": {
+        "source": "[UPLOADED IMAGE]",
+        "description": "Use this image *only* as a reference for the subject's face, hair, and appearance. Do *not* use its original background."
+    },
+    "scene": {
+        "background": {
+            "setting": "the window on the bus is sad, troubled, sorrowful",
+            "details": "This is the *new* environment the subject must be placed into, completely replacing the original background."
+        },
+        "subject": {
+            "description": "The young man whose appearance is defined by the `[UPLOADED IMAGE]`.",
+            "pose": "his head resting gently against the bus window",
+            "focus": "Subject is in sharp focus, fully integrated into the new background."
+        }
+    },
+    "overlayObject": {
+        "type": "Floating Glassmorphism Music Player UI",
+        "relationshipToEnvironment": "the UI is **perfectly flush and physically attached** to the same plane as the bus window glass, **not floating**, not screen-space.",
+        "transform": "the UI matches the *exact same rotation and perspective* as the window surface. If the window tilts, the UI tilts identically with correct foreshortening.",
+        "surfaceInteraction": "subtle, realistic reflection and slight refraction through glass, extremely thin glassmorphism panel integrated *into* the window surface.",
+        "components": {
+            "songTitle": "Wrecked",
+            "artistName": "Imagine Dragons",
+            "position": "mounted on the bus window glass at the middle-left region of the frame (not floating)."
+        }
+    },
+    "technicalStyle": {
+        "aspectRatio": "1:1",
+        "photographyStyle": "Cinematic Portrait, Realistic Compositing",
+        "camera": {
+            "shotType": "Medium Shot or Medium Close-Up",
+            "angle": "Eye-level",
+            "depthOfField": "Shallow, to blur the new background (bokeh)."
+        },
+        "lighting": {
+            "type": "Soft, Ambient, Moody",
+            "description": "Lighting on the subject *must match* the lighting of the new background setting (e.g., rainy light through bus window, soft shadow gradients)."
+        },
+        "color": {
+            "palette": "Muted, cinematic color grading."
+        }
+    },
+    "audioDevice": {
+        "type": "subtle in-ear wireless earbuds",
+        "fit": "naturally seated in both ears with correct realistic skin contact",
+        "color": "matte black or dark neutral tone",
+        "consistencyNote": "no cable, no bulky gaming headset"
+    },
+    "moodReinforcement": "earbuds imply the sad music 'Wrecked - Imagine Dragons' is what the subject is listening to."
+}
+```
+
+**中文提示词：**
+```
+{
+"promptDetails": {
+“描述”：“提示用户通过将主体（基于参考照片）放置在新的氛围背景中，然后叠加音乐用户界面来*创建新场景*。”
+"styleTags": [
+“美学编辑”
+“电影感”，
+“场景合成”
+“玻璃态”
+]
+},
+"subjectReference": {
+“来源”：[上传的图片]，
+“描述”：“请仅将此图片用作人物面部、头发和外貌的参考。请勿使用其原始背景。”
+},
+“场景”： {
+“背景”： {
+“场景”：“公交车上的窗户是悲伤的、忧郁的、哀伤的”，
+“细节”：“这是主体必须置身的*全新*环境，完全替换原有背景。”
+},
+“主题”： {
+描述：这位年轻人的外貌特征由“[上传的图片]”定义。
+“姿势”：“他的头轻轻地靠在公交车窗上”，
+“焦点”：“主体清晰对焦，完全融入新的背景中。”
+}
+},
+"overlayObject": {
+"type": "浮动玻璃变形音乐播放器用户界面",
+“与环境的关系”：“用户界面**与公交车窗玻璃完全齐平，并且物理上**附着在**同一平面上， ** ）不是悬浮的，也不是屏幕空间的。”
+“变换”：“用户界面与窗口表面*完全一致地旋转和透视*。如果窗口倾斜，用户界面也会随之倾斜，并具有正确的透视缩短效果。”
+“表面交互”：“透过玻璃产生微妙、逼真的反射和轻微折射，极薄的玻璃变形面板集成到窗户表面*中*。”
+“成分”： {
+歌曲标题： 'Wrecked'
+"artistName": "Imagine Dragons",
+“位置”：“安装在公交车车窗玻璃上，位于车窗框架的左侧中间位置（非悬浮式）。”
+}
+},
+"technicalStyle": {
+“aspectRatio”: “1:1”
+“摄影风格”：“电影人像，逼真合成”
+“相机”： {
+"shotType": "Medium Shot or Medium Close Up",
+“角度”：“视线水平”，
+"depthOfField": "浅景深，使新背景模糊（散景）"
+},
+“灯光”： {
+“类型”：“柔和、氛围、情绪化”，
+“描述”：“拍摄对象的照明必须与新背景设置的照明相匹配（例如，透过公交车窗的雨光、柔和的阴影渐变）。”
+},
+“颜色”： {
+“调色板”：“柔和的电影级色彩分级。”
+}
+},
+"audioDevice": {
+“类型”：“低调的入耳式无线耳机”，
+“贴合度”：“自然地佩戴在双耳中，与皮肤有正确的逼真接触”，
+颜色：哑光黑或深色中性色调，
+“一致性说明”： “无线缆，无笨重的游戏耳机”
+},
+“moodReinforcement”：“耳机暗示着受试者正在听悲伤的音乐‘Wrecked - Imagine Dragons’。”
+}
+```
+
+<a id="prompt-418"></a>
+## 案例 418：将电影海报重新设计成黏土动画风格 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1987128144470679641))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/418.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-将电影海报重新设计成黏土动画风格">
+</div>
+
+**提示词：**
+```
+Restyle the reference movie poster in claymation style. Keep the original layout, composition, and lighting exactly as in the reference. Transform all characters, objects, and elements into handcrafted clay models with visible fingerprints, soft edges, and subtle imperfections. Preserve the background and colors, but give everything a realistic clay texture and dimensional feel, as if it were photographed from a stop-motion clay animation set
+```
+
+**中文提示词：**
+```
+将参考电影海报重新设计成黏土动画风格。保持原图的布局、构图和光线完全一致。将所有角色、物体和元素转化为手工制作的黏土模型，保留清晰可见的指纹、柔和的边缘和细微的瑕疵。保留背景和色彩，但赋予所有元素逼真的黏土质感和立体感，仿佛是从定格动画片场拍摄的一样。
+```
+
+<a id="prompt-417"></a>
+## 案例 417：一幅超写实的高品质特写肖像 (来源 [@ZaraIrahh](https://x.com/ZaraIrahh/status/1987684052028297552))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/417.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一幅超写实的高品质特写肖像">
+</div>
+
+**提示词：**
+```
+Using the exact facial features from the attached image 
+Create an hyperrealistic and high quality close-up portrait of a styling young woman,  her dark thick long hair styled in twin high artistic braids that falls over her ears, few loose trendils clipped using a different style matte brown statement hair clips ,with few loose strands falls across and frames her face, wearing a drawstring halter top, a thick-frame  brown cat-eye eyeglasses slightly lowered, soft hazel nut eyes, glossy red pouty lips, peached dewy blush and soft warm tone eyeshadows with a little bit shimmers and glitters on her cheeks and under her eyes, artistic brown eyeliner, natural dewy skin, head slightly tilted, relaxed and confident gaze hand-on-cheek pose, minimalistic background, warm beige and brown tones, bright and harsh illumination coming from the camera highlighting the texture of her figure, soft studio background lighting, K-fashion editorial aesthetic, Seoul street style influence, hyper-detailed face texture, cinematic tone, 85mm lens photography, Vogue Korea vibe, stylish and modern mood --ar 2:3 --v 6 --style raw --q 2 --s 250
+```
+
+**中文提示词：**
+```
+使用附图中的精确面部特征
+创作一幅超写实的高品质特写肖像，描绘一位正在打扮的年轻女性。她浓密乌黑的长发被编成两条高高的艺术辫子，垂落在耳边，几缕碎发用不同风格的哑光棕色发夹别住，几缕散落的发丝垂在脸颊两侧，勾勒出她精致的脸庞。她身穿一件抽绳露背上衣，戴着一副略微下垂的棕色粗框猫眼眼镜，拥有一双柔和的榛子色眼睛，涂着光泽饱满的红唇，腮红是水润的蜜桃色，眼影是柔和的暖色调，带有少许珠光和亮片，点缀在脸颊和眼下。她画着艺术感十足的棕色眼线，肌肤呈现自然水润的状态。她微微侧着头，眼神放松自信，一只手轻抚脸颊。背景简洁，以温暖的米色和棕色为主色调。相机发出明亮而强烈的光线，突显了她的身材纹理。柔和的影棚背景灯光，展现出韩式时尚大片的风格，融合了首尔街头风的元素，并着重刻画了面部细节，营造出电影般的质感。这幅作品使用85mm镜头拍摄，灵感来自韩国版《Vogue》。氛围，时尚现代的格调 --ar 2:3 --v 6 --style raw --q 2 --s 250
+```
+
+<a id="prompt-416"></a>
+## 案例 416：夸张的高清全身漫画 (来源 [@CharaspowerAI](https://x.com/CharaspowerAI/status/1987558316973724116))
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/416.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-夸张的高清全身漫画">
+</div>
+
+**提示词：**
+```
+A realistic HD full body caricature of [subject: name], [describe exaggerated physical features, emotional expression]. [outfit in detail], and [mention an epic  action].  location, lighting, atmosphere, mood]. In the style of caricature realism, [highlight expression, texture, pose or object details], cinematic lighting, sharp focus, hyper-realistic rendering, caricature.
+```
+
+**中文提示词：**
+```
+一幅逼真的高清全身漫画，描绘[人物：姓名]，[描述夸张的体貌特征、情绪表达]，[详细描述服装]，[提及一个精彩的动作]，[地点、光线、氛围、情绪]。风格为漫画写实主义，[突出表情、纹理、姿势或物体细节]，电影级光线，清晰对焦，超写实渲染，漫画风格。
+```
 
 <a id="prompt-415"></a>
 ## 案例 415：九个不同服装姿势和表情的Q版贴纸 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1985738257708302430))

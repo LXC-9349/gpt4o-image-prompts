@@ -33,6 +33,46 @@
 
 <a id="prompt-toc"></a>
 ## 📖 案例目录
+*   [案例 705：赛博朋克美学风格卡片 ](#prompt-705)
+*   [案例 704：超写实风格的女性角色肖像 ](#prompt-704)
+*   [案例 703：儿童手绘旅行日记风格 ](#prompt-703)
+*   [案例 702：生成3×3照片网格照片 ](#prompt-702)
+*   [案例 701：绘制一个详细的宠物商店场景 ](#prompt-701)
+*   [案例 700：上海3D城市时光之旅 ](#prompt-700)
+*   [案例 699：年轻女子温柔的特写镜头 ](#prompt-699)
+*   [案例 698：女子仰卧自拍照 ](#prompt-698)
+*   [案例 697：毛毡材质玩具 ](#prompt-697)
+*   [案例 696：日系少女赶地铁 ](#prompt-696)
+*   [案例 695：3x3网格柔和的粉蓝色调摄影棚写真照 ](#prompt-695)
+*   [案例 694：色彩缤纷的Y2K剪贴簿海报 ](#prompt-694)
+*   [案例 693：写实照片定格JOJO风格 ](#prompt-693)
+*   [案例 692：棕色长发的年轻女子自拍照 ](#prompt-692)
+*   [案例 691：用英文日文标注所有物品 ](#prompt-691)
+*   [案例 690：双语认知大发现-海底世界 ](#prompt-690)
+*   [案例 689：双语认知大发现-交通工具 ](#prompt-689)
+*   [案例 688：一位魅力四射的女性超逼真8K肖像 ](#prompt-688)
+*   [案例 687：生成一张指定时间地点的逼真照片 ](#prompt-687)
+*   [案例 686：中国每个城市标志性美食 ](#prompt-686)
+*   [案例 685：3x3的网格特写照片 ](#prompt-685)
+*   [案例 684：哥特式电影风格的肖像画 ](#prompt-684)
+*   [案例 683：花园里的婚纱照 ](#prompt-683)
+*   [案例 682：微缩3D卡通视图展城市最高的三座建筑 ](#prompt-682)
+*   [案例 681：反推图片json提示词 ](#prompt-681)
+*   [案例 680：OOTD手绘涂鸦分解 ](#prompt-680)
+*   [案例 679：紫禁城建筑照片展示和设计图纸 ](#prompt-679)
+*   [案例 678：疯狂动物城朱迪和尼克讲小故事-守株待兔 ](#prompt-678)
+*   [案例 677：现代少年奇幻漫画 ](#prompt-677)
+*   [案例 676：夜晚吐舌头女生的自拍照 ](#prompt-676)
+*   [案例 675：同一张脸的柔和模糊的侧面特写 ](#prompt-675)
+*   [案例 674：武当山山腰的一栋双层住宅 ](#prompt-674)
+*   [案例 673：3×3的美妆电商广告制作 ](#prompt-673)
+*   [案例 672：疯狂动物城朱迪和尼克 ](#prompt-672)
+*   [案例 671：星座运势卡 ](#prompt-671)
+*   [案例 670：年轻女子对着镜子自拍旁边是朱迪 ](#prompt-670)
+*   [案例 669：女子在迪士尼商店里对着镜子自拍 ](#prompt-669)
+*   [案例 668：城市俯视等距3D卡通微缩场景 ](#prompt-668)
+*   [案例 667：超写实风格真实和卡通分离效果 ](#prompt-667)
+*   [案例 666：极近距离的自拍照 ](#prompt-666)
 *   [案例 665：外卖员的写真照 ](#prompt-665)
 *   [案例 664：多图风格参考 ](#prompt-664)
 *   [案例 663：哆啦A梦讲课 ](#prompt-663)
@@ -204,6 +244,2685 @@
 ## [点击：查看201-300个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/300.md)
 ## [点击：查看101-200个提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/200.md)
 ## [点击：查看100提示词](https://github.com/songguoxs/gpt4o-image-prompts/blob/master/100.md)
+
+<a id="prompt-705"></a>
+## 案例 705：赛博朋克美学风格卡片 (来源 [@dotey](https://x.com/dotey/status/1995633652139442373)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/705.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-赛博朋克美学风格卡片">
+</div>
+
+**提示词：**
+```
+A 9:16 vertical, photorealistic cyber-aesthetic futuristic social-app interface. A hand is holding a vertical, iPhone-sized, borderless acrylic card, taking up most of the frame. The card displays a social media profile interface with no banners or background images. Its smooth, rounded edges emit a soft neon glow in blue, pink, and purple gradients.
+
+The background is dark and blurred, emphasizing the glowing edges; the light reflections on the fingers feel cinematic and atmospheric, creating a high-tech holographic mood. The card surface is crystal-clear, and the profile details appear almost engraved, showing only the information from the reference image.
+
+Displayed in this exact order:
+
+- Profile avatar (centered)
+- Name + blue verification badge (centered)
+- Username with “@”, e.g., 
+@dotey
+ (centered)
+- Bio (left-aligned)
+- Location, website (left-aligned)
+- Join date (left-aligned)
+- Following count & followers count (left-aligned)
+- Follow button (full-width, transparent background, rounded-full, border with soft neon glow)
+```
+
+**中文提示词：**
+```
+一个9:16比例的竖屏，采用逼真的赛博朋克美学风格，展现出未来主义的社交应用界面。一只手拿着一张竖屏的、iPhone大小的无边框亚克力卡片，占据了画面的大部分空间。卡片上显示着一个社交媒体个人资料界面，没有任何横幅或背景图片。卡片光滑圆润的边缘散发出柔和的霓虹光芒，呈现出蓝、粉、紫三色渐变。
+
+背景昏暗模糊，突显了发光的边缘；手指上的光线反射极具电影感和氛围感，营造出一种高科技全息效果。卡片表面晶莹剔透，轮廓细节仿佛雕刻而成，仅显示参考图像中的信息。
+
+按以下顺序显示：
+
+- 个人资料头像（居中）
+- 姓名 + 蓝色验证徽章（居中）
+- 用户名包含“@”符号，例如
+@dotey
+ （居中）
+- 个人简介（左对齐）
+- 位置，网站（左对齐）
+加入日期（左对齐）
+- 关注者数量和粉丝数量（左对齐）
+- 关注按钮（全宽，透明背景，圆角，带柔和霓虹光晕的边框）
+```
+
+<a id="prompt-704"></a>
+## 案例 704：超写实风格的女性角色肖像 (来源 [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/1995131975351562274)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/704.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实风格的女性角色肖像">
+</div>
+
+**提示词：**
+```
+Generate a hyperrealistic realistic-anime portrait of a female character 
+standing in a completely black background.
+Lighting: use a **narrow beam spotlight** focused only on the center of the face. 
+The edges of the light must be sharp and dramatic. 
+All areas outside the spotlight should fall quickly into deep darkness 
+(high falloff shadow), almost blending into the black background. 
+Not soft lighting.
+Hair: long dark hair with some strands falling over the face. The lower parts of the hair should fade into the shadows.
+Pose: one hand raised gently to the lips in a shy, hesitant gesture. 
+Eyes looking directly at the camera with a mysterious mood.
+Clothing: black long-sleeve knit sweater; 
+the sweater and body should mostly disappear into the darkness with minimal detail.
+Overall tone: dark, moody, dramatic, mysterious. 
+High-contrast only in the lit portion of the face. 
+Everything outside the spotlight should be nearly invisible.
+```
+
+**中文提示词：**
+```
+生成一幅超写实风格的女性角色动漫肖像
+站在纯黑色的背景下。
+照明：使用**窄光束聚光灯**只聚焦在脸部中心。
+光线的边缘必须清晰锐利，极具戏剧性。
+聚光灯之外的所有区域都应迅速陷入深深的黑暗。
+（阴影衰减严重），几乎与黑色背景融为一体。
+不是柔光。
+头发：长长的黑发，几缕发丝垂落在脸颊两侧。发梢应与阴影融为一体。
+姿势：一只手轻轻抬起放在嘴唇上，做出羞涩、犹豫的姿态。
+眼神神秘，直视镜头。
+服装：黑色长袖针织毛衣；
+毛衣和身体大部分应该融入黑暗中，细节越少越好。
+整体基调：阴郁、忧郁、戏剧化、神秘。
+只有面部受光部分具有高对比度。
+聚光灯之外的一切都应该几乎隐形。
+```
+
+<a id="prompt-703"></a>
+## 案例 703：儿童手绘旅行日记风格 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1995445643414847987)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/703.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-儿童手绘旅行日记风格">
+</div>
+
+**提示词：**
+```
+“Create a vibrant, child-like crayon-style vertical (4:5) illustration titled “{City Name} Travel Journal.”  
+The artwork should look as if it were drawn by a curious child using colorful crayons, featuring a soft, warm light-toned background (such as pale yellow), combined with bright reds, blues, greens, and other cheerful colors to create a cozy, playful travel atmosphere.
+
+I. Main Scene: Travel-Journal Style Route Map
+
+In the center of the illustration, draw a “winding, zigzagging travel route” with arrows and dotted lines connecting multiple locations.  
+The route should automatically generate recommended attractions based on {Number of Days}:
+
+Example structure (auto-filled with {City Name}-related content):
+
+- “Stop 1: {Attraction 1 + short fun description}”
+- “Stop 2: {Attraction 2 + short fun description}”
+- “Stop 3: {Attraction 3 + short fun description}”
+- …
+- “Final Stop: {Local signature food or souvenir + warm closing remark}”
+
+Rules:
+- If no number of days is provided, default to a 1-day highlight itinerary.
+
+II. Surrounding Playful Elements (Auto-adapt to the City)
+
+Add many cute doodles and child-like decorative elements around the route, such as:
+
+1. Adorable travel characters
+   - A child holding a local snack  
+   - A little adventurer with a backpack
+
+2. Q-style hand-drawn iconic landmarks
+   - “{City Landmark 1}”
+   - “{City Landmark 2}”
+   - “{City Landmark 3}”
+
+3. Funny signboards
+   - “Don’t get lost!”
+   - “Crowds ahead!”
+   - “Yummy food this way!”  
+   (Auto-adjust contextually for the city)
+
+4. Sticker-style short phrases
+   - “{City Name} travel memories unlocked!”
+   - “{City Name} food adventure!”
+   - “Where to next?”
+
+5. Cute icons of local foods
+   - “{Local Food 1}”
+   - “{Local Food 2}”
+   - “{Local Food 3}”
+
+6. Childlike exclamations
+   - “I didn’t know {City Name} was so fun!”
+   - “I want to come again!”
+
+III. Overall Art Style Requirements
+
+- Crayon / children’s hand-drawn travel diary style  
+- Bright, warm, colorful palette  
+- Cozy but full and lively composition  
+- Emphasize the joy of exploring  
+- All text should be in a cute handwritten font  
+- Make the entire page feel like a young child’s fun travel-journal entry”
+```
+
+**中文提示词：**
+```
+“创作一幅充满活力、儿童蜡笔风格的竖版（4:5）插图，标题为“{城市名称}旅行日记”。
+这幅画作应该看起来像是一个好奇的孩子用彩色蜡笔画出来的，以柔和温暖的浅色调背景（例如淡黄色）为特色，并结合鲜艳的红色、蓝色、绿色和其他欢快的颜色，营造出一种温馨、轻松的旅行氛围。
+
+一、主要场景：旅行日志式路线图
+
+在插图的中心，绘制一条“蜿蜒曲折的旅行路线”，用箭头和虚线连接多个地点。
+路线应根据{天数}自动生成推荐景点：
+
+示例结构（自动填充与{城市名称}相关的内容）：
+
+- “第一站：{景点 1 + 简短有趣的描述}”
+- “第二站：{景点 2 + 简短有趣的介绍}”
+- “第三站：{景点 3 + 简短有趣的描述}”
+- …
+- “最后一站：{当地特色美食或纪念品 + 温馨的结束语}”
+
+规则：
+- 如果没有提供天数，则默认为 1 天的精华行程。
+
+二、周边趣味元素（自动适应城市环境）
+
+在路线周围添加许多可爱的涂鸦和充满童趣的装饰元素，例如：
+
+1. 可爱的旅行角色
+一个孩子手里拿着当地小吃。
+一个背着背包的小冒险家
+
+2. Q 风格的手绘标志性地标
+- “{城市地标 1}”
+- “{城市地标 2}”
+- “{城市地标 3}”
+
+3. 有趣的标牌
+“别迷路了！”
+“前方人潮拥挤！”
+“好吃的食物这边走！”
+（根据城市情况自动调整）
+
+4. 贴纸式短语
+- “{城市名称}的旅行回忆已解锁！”
+- “{城市名称}美食探险！”
+“接下来去哪儿？”
+
+5. 可爱的当地美食图标
+- “{本地美食 1}”
+- “{本地美食 2}”
+- “{本地美食 3}”
+
+6. 孩子气的感叹词
+“我以前不知道{城市名称}这么好玩！”
+“我还想再来！”
+
+三、总体美术风格要求
+
+- 蜡笔/儿童手绘旅行日记风格
+明亮、温暖、色彩丰富的色调
+温馨而饱满、充满活力的构图
+强调探索的乐趣
+所有文字都应使用可爱的手写字体。
+“让整页内容感觉就像小孩子写的趣味旅行日记一样。”
+```
+
+<a id="prompt-702"></a>
+## 案例 702：生成3×3照片网格照片 (来源 [@iX00AI](https://x.com/iX00AI/status/1995130835218186540)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/702.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成3×3照片网格照片">
+</div>
+
+**提示词：**
+```
+Generate a 3×3 photo grid.
+Fully preserve the face, hairstyle, and outfit from the uploaded image in all panels.
+
+The person should make a cute, funny, and slightly weird expression and pose, and the same expression & pose must be consistent across all 9 panels.
+
+Each panel should use a different camera angle.
+Use the following angles, in varied composition and framing:
+1. High angle (top-down)
+2. Low angle (from below)
+3. Eye-level straight-on
+4. Dutch angle (slightly tilted)
+5. Close-up low angle
+6. Over-the-shoulder angle
+7. Wide shot from the side
+8. 45-degree angle from the front
+9. Slight bird’s-eye angle
+
+Style Requirements:
+•Photorealistic, clean lighting
+•Real camera lens rendering
+•No illustration or cartoon look
+•Same outfit, face, and hairstyle across all images
+•The pose and expression stay identical across the grid
+•Modern, minimal aesthetic
+```
+
+**中文提示词：**
+```
+生成 3×3 照片网格。
+在所有面板中完整保留上传图像中的面部、发型和服装。
+
+画中人应该做出可爱、滑稽、略带怪异的表情和姿势，并且所有 9 个画面中的表情和姿势必须保持一致。
+
+每个小组都应该使用不同的拍摄角度。
+使用以下角度，并采用不同的构图和取景方式：
+1. 高角度（顶部- down)
+2. 低角度（从下方）
+3. 视线水平正对
+4. 荷兰角（略微倾斜）
+5. 近景低角度拍摄
+6. 过肩角度
+7. 侧面远景
+8. 从正面看呈45度角
+9. 略微俯视角度
+
+风格要求：
+•逼真、清晰的光照
+•真实相机镜头渲染
+•无插图或卡通风格
+•所有图片中的服装、脸型和发型都相同
+•整个网格中的姿势和表情保持一致
+现代简约美学
+```
+
+<a id="prompt-701"></a>
+## 案例 701：绘制一个详细的宠物商店场景 (来源 [@lxfater](https://x.com/lxfater/status/1992984573551276147)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/701.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-绘制一个详细的宠物商店场景">
+<img src="./images/701-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-绘制一个详细的宠物商店场景">
+</div>
+
+**中文提示词：**
+```
+为我绘制一个详细的{{宠物商店}}场景  
+
+并标注所有物体的英语单词， 
+
+标注格式： 第一行：英文单词 
+第二行：音标（国际音标IPA格式） 
+第三行：中文翻译
+```
+
+<a id="prompt-700"></a>
+## 案例 700：上海3D城市时光之旅 (来源 [@servasyy](https://x.com/servasyy/status/1995412825003708860)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/700.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-上海3D城市时光之旅">
+</div>
+
+**提示词：**
+```
+A stunning hyper-realistic 3D render of Shanghai's architectural evolution displayed as detailed miniature model diorama on a large circular floating platform, like a round disc divided into four distinct quadrants. ALL buildings are rendered as tangible 3D miniature models with physical depth and dimension, not flat backgrounds. The circular platform has thick layered edges resembling geological strata in shades of brown, beige, and turquoise blue.   First quadrant (top-left): 3D miniature models of traditional Shikumen stone-gate houses with grey tiled roofs, wooden window frames, grey brick walls, red paper lanterns, tiny vintage bicycles and rickshaws as 3D models, miniature human figures.   Second quadrant (top-right): 3D miniature models of The Bund architecture - Art Deco Peace Hotel with green copper roof (3D model), neoclassical HSBC Building dome (3D model), Gothic customs house clock tower (3D model), cream and golden facades, tiny 1930s cars as 3D models, miniature pedestrian figures.   Third quadrant (bottom-right): 3D miniature models of modern Pudong skyline - Oriental Pearl Tower with pink spheres (detailed 3D model), Jin Mao Tower (3D model), Shanghai Tower twisted glass form (3D model), Shanghai World Financial Center (3D model), all skyscrapers rendered as physical miniature 3D models with depth, tiny modern vehicles, miniature contemporary figures.   Fourth quadrant (bottom-left): 3D miniature models of future sustainable architecture - vertical forest towers covered in tiny green plants (3D models), transparent solar panel buildings (3D models), organic curved parametric structures (3D models), elevated hyperloop stations (3D models), tiny drones and flying vehicles as 3D models, miniature futuristic figures.   The circular platform floats above realistic 3D rendered Huangpu River water with reflections. Traditional wooden sampan boats (3D models) transform into sleek modern cruise ships (detailed 3D models). Platform edges show beautiful wave-like geological strata texture. Background features atmospheric misty Shanghai skyline silhouettes transitioning from warm dawn orange through pink-purple twilight to deep night blue with stars.   Lighting transitions across quadrants: warm sepia tone for Shikumen, golden hour sunlight for Bund, vibrant electric blue neon for modern Pudong, holographic cyan-magenta glow for future section.   At top center: elegant bilingual typography "上海 SHANGHAI" combining traditional calligraphy with modern sans-serif, subtitle "Architectural Journey Through Time" and "建筑时光之旅".   Ultra-realistic 3D rendering style, professional architectural miniature photography, tilt-shift lens effect creating miniature appearance, all elements have physical 3D depth and dimension, hyper-detailed textures showing model craftsmanship, 4K resolution, museum-quality diorama presentation, dramatic studio lighting with depth and atmosphere, every building is a tactile 3D miniature model not a flat image.
+```
+
+**中文提示词：**
+```
+令人惊叹的超写实3D渲染图展现了上海建筑的演变历程，并以精细的微缩模型立体场景的形式呈现在一个大型圆形悬浮平台上，平台如同一个被分割成四个独立象限的圆盘。所有建筑均以具有真实立体感和深度的3D微缩模型呈现，而非平面背景。圆形平台边缘厚实，层叠交错，宛如地质地层，呈现出棕色、米色和蓝绿色调。第一象限（左上）：展示了传统的石库门石门建筑的3D微缩模型，这些建筑拥有灰色瓦顶、木质窗框、灰色砖墙、红色纸灯笼，以及小巧的复古自行车和人力车模型，还有微缩的人物模型。第二象限（右上）：外滩建筑的3D微缩模型——装饰艺术风格的和平饭店（绿色铜屋顶，3D模型）、新古典主义风格的汇丰银行大厦穹顶（3D模型）、哥特式海关大楼钟楼（3D模型）、奶油色和金色外墙、20世纪30年代的微型汽车（3D模型）以及微型行人。第三象限（右下）：浦东现代天际线的3D微缩模型——东方明珠塔（粉色球体，精细3D模型）、金茂大厦（3D模型）、上海中心大厦（扭曲玻璃结构，3D模型）、上海环球金融中心（3D模型），所有摩天大楼均以具有深度的实体3D微缩模型呈现，此外还有微型现代车辆和微型当代人物。第四象限（左下角）：未来可持续建筑的3D微缩模型——覆盖着微型绿色植物的垂直森林塔（3D模型）、透明太阳能板建筑（3D模型）、有机曲线参数化结构（3D模型）、高架超级高铁站（3D模型）、微型无人机和飞行器（3D模型）以及未来主义微缩模型。圆形平台漂浮在逼真的3D渲染黄浦江水面上，水面倒映着江水的纹理。传统的木制舢板（3D模型）逐渐演变为线条流畅的现代游轮（精细的3D模型）。平台边缘展现出美丽的波浪状地质层纹理。背景是朦胧的上海天际线轮廓，从温暖的晨曦橙色过渡到粉紫色的暮光，最终变为繁星点点的深邃夜空蓝色。灯光在不同象限间过渡：石库门采用温暖的棕褐色调，外滩沐浴在金色的阳光下，现代浦东则闪耀着充满活力的电光蓝霓虹灯，未来区域则呈现出全息的青色和洋红色光芒。画面顶部中央：优雅的双语字体“上海 SHANGHAI”，融合了传统书法与现代无衬线字体，副标题为“建筑时光之旅”。采用超逼真的3D渲染风格、专业的建筑微缩摄影技术，运用移轴镜头效果营造微缩景观，所有元素均具有真实的3D深度和立体感，超精细的纹理展现了模型的精湛工艺，4K分辨率，博物馆级立体模型呈现，戏剧性的影棚灯光营造出丰富的层次感和氛围，每一栋建筑都是触感十足的3D微缩模型，而非平面图像。
+```
+
+<a id="prompt-699"></a>
+## 案例 699：年轻女子温柔的特写镜头 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/1995172379991883987)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/699.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女子温柔的特写镜头">
+</div>
+
+**提示词：**
+```
+{
+  "pipeline_configuration": {
+    "job_type": "img2img_transformation",
+    "meta_tags": ["macro", "beauty", "soft_focus", "realism"],
+    
+    "input_reference_handling": {
+      "preservation_rules": {
+        "facial_identity": {
+          "strength": 1.0,
+          "instruction": "Strict 100% preservation of facial geometry and features.",
+          "technique": "FaceID / IP-Adapter Strong"
+        },
+        "color_palette": {
+          "target": "Hair Color",
+          "mode": "inherit_from_source",
+          "instruction": "Do not hallucinate new hair color. Map source color to new hair texture."
+        }
+      }
+    },
+
+    "generative_parameters": {
+      "subject_definition": {
+        "hair_morphology": {
+          "length": "Short",
+          "texture_type": "Wavy",
+          "styling_aesthetic": "Intentionally messy, artfully disheveled",
+          "micro_details": "Fine strands falling across forehead and near eyes",
+          "color_override": null
+        },
+        "facial_details": {
+          "expression": "Serene, gentle",
+          "makeup_style": "Natural, soft-beauty approach",
+          "surface_texture": "Ultra-clean skin with visible macro pores"
+        }
+      },
+
+      "scene_composition": {
+        "camera_settings": {
+          "proximity": "Extreme Close-Up (Macro)",
+          "depth_of_field": "Ultra-shallow",
+          "focus_target": "Eyes",
+          "lens_character": "Soft beauty lens"
+        },
+        "foreground_layers": {
+          "element": "Hand",
+          "state": "Partially blurred",
+          "purpose": "Framing effect, adding depth and intimacy"
+        },
+        "background_layers": {
+          "state": "Fully out of focus",
+          "visuals": "Pastel, soft tones",
+          "bokeh_quality": "Strong, smooth, creamy"
+        }
+      },
+
+      "lighting_and_atmosphere": {
+        "style": "Soft-beauty photography",
+        "dynamic_range": "High (HDR)",
+        "quality": "Airy, bright, diffused",
+        "reflections": {
+          "eyes": "Crisp, sharp catchlights",
+          "lips": "Soft, natural shine"
+        }
+      }
+    },
+
+    "text_prompts": {
+      "weighted_positive": {
+        "(Masterpiece, Best Quality, 8k, Macro Photo)": 1.5,
+        "Extreme close-up of young woman with serene gentle expression": 1.3,
+        "Short wavy messy hair with stray wisps over eyes": 1.2,
+        "Hand in foreground partially blurred framing the face": 1.2,
+        "Macro skin texture, pores visible, individual hair strands": 1.4,
+        "Ultra-sharp eyes with crisp reflections": 1.3,
+        "Soft pastel bokeh background": 1.1,
+        "Soft diffused lighting, airy aesthetic": 1.0
+      },
+      "weighted_negative": {
+        "alteration of face, new hair color, long hair": 1.5,
+        "plastic skin, airbrushed, smooth": 1.4,
+        "cartoon, 3d render, illustration": 1.3,
+        "deep focus, sharp background, clutter": 1.2,
+        "deformed hand, bad anatomy": 1.4
+      }
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"pipeline_configuration": {
+"job_type": "img2img_transformation",
+"meta_tags": ["macro", "beauty", "soft_focus", "realism"],
+
+"input_reference_handling": {
+"preservation_rules": {
+"facial_identity": {
+“强度”：1.0，
+“说明”：“严格100%保留面部几何形状和特征。”
+“技术”： “FaceID / IP适配器强”
+},
+"color_palette": {
+目标：头发颜色，
+"mode": "inherit_from_source",
+“说明”：“不要凭空想象新的发色。将原有发色映射到新的发质上。”
+}
+}
+},
+
+"generative_parameters": {
+"subject_definition": {
+"毛发形态学": {
+"长度": "短"
+"texture_type": "波浪形",
+"styling_aesthetic": "故意凌乱，巧妙地不修边幅",
+"micro_details": "额头和眼周垂落的细小发丝",
+"color_override": null
+},
+"facial_details": {
+“表情”：“宁静，温柔”，
+"makeup_style": "自然柔美风格",
+"surface_texture": "肌肤极其洁净，可见毛孔"
+}
+},
+
+"scene_composition": {
+"camera_settings": {
+“近景”: “超近特写（微距）”
+"景深": "超浅",
+"focus_target": "眼睛",
+"lens_character": "柔和美颜镜头"
+},
+"前景图层": {
+“元素”： “手”，
+“状态”：“部分模糊”，
+“目的”：“构图效果，增添深度和亲密感”
+},
+"background_layers": {
+“状态”：“完全失焦”
+“视觉效果”：“柔和的粉彩色调”，
+"bokeh_quality": "强烈、柔和、细腻"
+}
+},
+
+"lighting_and_atmosphere": {
+“风格”：“柔美摄影”，
+"dynamic_range": "高 (HDR)",
+“品质”：“轻盈、明亮、柔和”，
+"反思": {
+“眼睛”：“清晰锐利的眼神光”，
+“唇部”：“柔和自然的光泽”
+}
+}
+},
+
+"text_prompts": {
+"加权正值": {
+"（杰作，最佳品质，8K，微距照片）": 1.5，
+“年轻女子表情宁静温柔的特写镜头”：1.3，
+“短而蓬乱的波浪卷发，几缕碎发垂在眼前”：1.2，
+“前景中部分模糊的手框住了脸部”：1.2，
+“宏观皮肤纹理，毛孔可见，单根毛发可见”：1.4，
+“超清晰的眼睛，反射效果极佳”：1.3，
+“柔和的粉彩散景背景”：1.1，
+柔和的漫射光，轻盈的美感：1.0
+},
+"weighted_negative": {
+“面部改变、新的发色、长发”：1.5，
+“塑料皮肤，喷绘，光滑”：1.4，
+“卡通，3D渲染，插图”：1.3，
+“景深大，背景清晰，杂乱”：1.2，
+“手部畸形，解剖结构异常”：1.4
+}
+}
+}
+}
+```
+
+<a id="prompt-698"></a>
+## 案例 698：女子仰卧自拍照 (来源 [@lexx_aura](https://x.com/lexx_aura/status/1995485429265575954)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/698.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子仰卧自拍照">
+</div>
+
+**提示词：**
+```
+{
+  "subject": {
+    "type": "young woman",
+    "pose": "lying on her back, taking a selfie with her right arm extended upward",
+    "expression": "soft smile, relaxed and natural",
+    "gaze": "looking toward the camera",
+    "skin_details": {
+      "complexion": "smooth, warm, sunlit glow",
+      "freckles": "visible on nose and cheeks"
+    },
+    "hair": {
+      "color": "medium brown",
+      "length": "long",
+      "style": "loose, spread out on the pillow around her head"
+    },
+    "eyes": {
+      "color": "light blue or green",
+      "makeup": "subtle eyeliner"
+    }
+  },
+  "clothing": {
+    "top": {
+      "type": "ribbed tank top",
+      "color": "white",
+      "fit": "form-fitting",
+      "neckline": "scoop neck"
+    },
+    "bottoms": {
+      "type": "jeans",
+      "color": "light blue",
+      "visibility": "partially visible"
+    },
+    "accessories": {
+      "earrings": "small studs",
+      "necklace": "thin, minimal chain"
+    }
+  },
+  "environment": {
+    "location": "bed or soft resting surface",
+    "bedding": {
+      "pillow": "white",
+      "sheets": "white"
+    },
+    "background": "neutral wall and edge of headboard or furniture barely visible"
+  },
+  "lighting": {
+    "type": "natural sunlight",
+    "direction": "coming from upper left of frame",
+    "effect": "creates warm highlights and soft shadows on face and torso"
+  },
+  "composition": {
+    "camera_angle": "top-down selfie angle",
+    "framing": "close-up of face, upper torso, and part of jeans",
+    "focus": "sharp on face and upper body",
+    "colors": "warm skin tones, white bedding, brown hair, neutral background"
+  },
+  "mood": "warm, relaxed, comfortable, natural"
+}
+```
+
+**中文提示词：**
+```
+{
+“主题”： {
+“类型”: “年轻女子”
+“姿势”：“仰卧，右臂向上伸展，自拍”
+“表情”：“柔和的微笑，轻松自然”，
+“凝视”：“看着镜头”，
+"skin_details": {
+“肤色”：“光滑、温暖、阳光般的光泽”，
+“雀斑”：“鼻子和脸颊上可见的雀斑”
+},
+“头发”： {
+“颜色”：“中棕色”，
+"length": "长",
+“风格”：“宽松地，散落在枕头上，围绕着她的头部”
+},
+"眼睛": {
+“颜色”: “浅蓝色或绿色”
+妆容：淡淡的眼线
+}
+},
+“衣服”： {
+“顶部”： {
+类型：罗纹背心，
+颜色：白色，
+“合身”： “贴合身形”，
+领口：圆领
+},
+"底部": {
+类型：牛仔裤，
+“颜色”： “浅蓝色”，
+“可见性”： “部分可见”
+},
+“配件”： {
+“耳环”: “小耳钉”
+项链：纤细简约的链条
+}
+},
+“环境”： {
+“位置”：“床或柔软的休息表面”，
+"床上用品": {
+“枕头”： “白色”，
+“床单”： “白色”
+},
+“背景”：“中性色调的墙壁和床头板或家具边缘几乎看不见”
+},
+“灯光”： {
+类型：自然阳光，
+“方向”：“来自画面左上方”，
+“效果”：“在脸部和躯干上营造出温暖的高光和柔和的阴影”
+},
+“作品”： {
+"camera_angle": "俯视自拍角度",
+“构图”：“脸部、上半身和部分牛仔裤的特写”，
+“焦点”: “清晰地聚焦在脸部和上半身”，
+“色彩”：“暖色调肤色、白色床品、棕色头发、中性背景”
+},
+氛围：温暖、放松、舒适、自然
+}
+```
+
+<a id="prompt-697"></a>
+## 案例 697：毛毡材质玩具 (来源 [@TechieBySA](https://x.com/TechieBySA/status/1995486257322111217)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/697.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-毛毡材质玩具">
+</div>
+
+**提示词：**
+```
+Full body [SUBJECT] toy, [ATTRIBUTES/ACCESSORIES], [EXPRESSION], made of felt, in a [PLACE], [LIGHTING], friendly and cartoonish appearance, rich and soft textures.
+```
+
+**中文提示词：**
+```
+全身[主题]玩具，[属性/配件]，[表情]，毛毡材质，在[地点]，[灯光]中，友好卡通的外观，丰富柔软的质感。
+```
+
+<a id="prompt-696"></a>
+## 案例 696：日系少女赶地铁 (来源 [@lxfater](https://x.com/lxfater/status/1995788532489638061)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/696.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-日系少女赶地铁">
+</div>
+
+**中文提示词：**
+```
+Role（角色设定）
+你是一位专精 日系青春电影 与 可爱少女日常写真 的顶级摄影导演。你擅长用电影分镜和细腻光影，捕捉女主从容又笨拙的小失误，营造出暖心、治愈、略带喜剧感的早晨通勤场景。
+Task（任务目标）
+根据以下描述，生成一张 4 格拼接构图（Four-panel composition，2x2 网格：上左、上右、下左、下右）。
+必须保持同一位日系少女形象在四格中 面孔与特征 100% 一致：黑色或深棕色齐肩直发、空气刘海、淡妆、身材偏纤细。
+她的穿着为 日系少女通勤风：浅色针织开衫、白衬衫、格纹半身裙、帆布鞋，背一只简洁的单肩包或双肩包。
+
+Visual Guidelines（视觉规范）
+画面质感：cinematic, Japanese movie still, 8K, soft light, shallow depth of field, subtle film grain, natural skin texture。
+色调：清晨暖色调，偏柔和的奶油色与浅蓝色，高光不过曝，整体偏 温柔、干净、可爱。
+背景：日本城市住宅区与地铁站环境，干净街道、路牌、自动贩卖机、站牌等细节。
+
+构图：2x2 网格布局（Upper-left, Upper-right, Lower-left, Lower-right），每一格都是一帧电影截图。
+
+Panel Breakdown（四格分镜拆解）
+
+上左（Upper-left）——【迟到的预感 / The Late Morning】
+
+视角（Camera Angle）：室内门口处的中近景，略微高机位，好像观众站在玄关看她匆忙出门。
+
+动作（Action）：她一边踩着鞋，一边抓起门边的包和手机，嘴里咬着一小块吐司或饭团，身体微微前倾准备冲出去。
+
+表情（Expression）：困倦中带点慌张，眼睛微睁，眉毛略上挑，带着“糟了要迟到”的可爱慌乱。
+重点（Focus）：清晨从门外洒进来的暖阳勾勒出她的轮廓，玄关处杂乱但温馨的小物（鞋架、雨伞、地垫）虚焦，突出少女的慌忙瞬间。
+
+上右（Upper-right）——【街角小跑 / Corner Dash】
+
+视角（Camera Angle）：略低机位的侧面全身景，仿佛跟拍镜头，背景是安静街区与十字路口。
+
+动作（Action）：她背着包小跑，裙摆和头发随风轻轻扬起，一只手按着包带防止晃动，另一只手看腕表或手机时间。
+
+表情（Expression）：有点紧张又带点好笑的无奈，嘴角微微撅起，眼神专注前方。
+
+重点（Focus）：路边的自动贩卖机、路牌、低饱和的街景在运动模糊中掠过，地面晨光与她的影子形成斜斜的引导线，强化“赶时间”的节奏感。
+
+左下（Lower-left）——【楼梯冲刺 / Stair Sprint】
+
+视角（Camera Angle）：从地铁站楼梯下方向上拍摄的低机位，仰视她奔上楼梯或往站台方向跑。
+
+动作（Action）：她扶着扶手快速上楼梯，步伐轻快，裙摆随着动作轻轻摆动，包斜跨在身侧。
+
+表情（Expression）：稍微喘气但坚持、认真的神情，眉头轻皱却不失可爱。
+
+重点（Focus）：楼梯上的光影分明，顶端可见写有站名的牌子与一点点天空。背景路人略虚化，突出少女努力赶车的剪影，整体仍保持干净、清爽的画面感。
+
+右下（Lower-right）——【刚好赶上 / Just in Time】
+
+视角（Camera Angle）：地铁车厢内的中近景，略高机位，好像站在她对面看着她。窗外有轻微运动模糊的隧道景色。
+
+动作（Action）：她站在车门附近，双手抓着包带或扶手，微微弯腰喘气，肩膀仍有一点起伏。
+
+表情（Expression）：松了口气的可爱微笑，脸颊略微泛红，眼睛里有轻松和自我调侃的感觉，像是在心里说“总算没迟到”。
+
+重点（Focus）：柔和的车厢灯光照在她的脸上，皮肤质感细腻自然。背景是朴素的车厢座位与几位乘客的模糊轮廓，营造温柔又日常的通勤氛围。
+
+Technical Constraints（技术限制）
+
+Consistency：四格中少女的脸部特征、发型、身材比例、服饰风格必须完全一致，确保是同一角色。
+
+Style：hyper-realistic yet soft, cinematic, Japanese slice-of-life movie still, natural color grading, soft focus, bokeh。
+
+Atmosphere：可爱、治愈、轻松、带一点小紧张但完全日常向，像青春爱情电影开头的通勤片头。
+```
+
+<a id="prompt-695"></a>
+## 案例 695：3x3网格柔和的粉蓝色调摄影棚写真照 (来源 [@AIByAbbay](https://x.com/AIByAbbay/status/1995506422117728636)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/695.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3x3网格柔和的粉蓝色调摄影棚写真照">
+</div>
+
+**提示词：**
+```
+Editorial 3x3 grid in soft pastel-blue studio. Character (face characteristics 100% same as uploaded image) wearing a light blue sleeveless dress. Shots follow original set: cheek/lip macro with blurred hand, reflective eye crop, B&W chin-rest portrait, fabric-framed over-shoulder, frontal light-band close-up, angled hair-fall portrait, hand-to-collarbone crop, seated half-body, profile droplet highlight. RAW, airy tones, smooth editorial finish.
+```
+
+**中文提示词：**
+```
+柔和的粉蓝色调摄影棚内，采用3x3网格构图进行拍摄。人物（面部特征与上传图片完全一致）身着浅蓝色无袖连衣裙。拍摄顺序如下：脸颊/嘴唇微距特写（手部虚化）、反光眼部特写、黑白下巴托举肖像、布框过肩特写、正面光带特写、斜角头发特写、手托锁骨特写、坐姿半身照、侧脸水滴高光。RAW格式，色调清新，后期处理柔和，适合杂志大片风格。
+```
+
+<a id="prompt-694"></a>
+## 案例 694：色彩缤纷的Y2K剪贴簿海报 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1995760655018942720)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/694.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-色彩缤纷的Y2K剪贴簿海报">
+</div>
+
+**提示词：**
+```
+facelock_identity": "true",
+"accuracy": "100%",
+scene"Colorful Y2K scrapbook poster aesthetic, vibrant stickers, multiple subjects wearing the same outfit and hairstyle with different poses and cutouts, colorful strokes and lines, frameless collage style. Includes: close-up shot with heart-shape fingers, full-body squatting pose supporting chin while holding a white polaroid camera, mid-shot touching cheek while blowing pink bubblegum, mid-shot smiling elegantly while holding a cat ,seated elegantly with one eye winking and peace sign, and mid-shot holding daisy flowers. Holographic textures, pastel gradients, glitter accents, playful doodles, magazine cut-out graphics, chaotic yet balanced layout, extremely artistic and visually engaging",
+main_subject": {
+"description": "A young Y2K-styled woman as the main focus in the center of the scrapbook collage.",
+"style_pose": "Playful and confident Y2K pose — slight side hip pop, one hand holding a lens-flare keychain, face toward the camera with a cute-cool expression, slight pout, candid early-2000s photo vibe."
+outfit": {
+"top": "Cropped oversized sweater in pastel color with embroidered patches",
+"bottom": "pastel skirt with a white belt",
+"socks": "White ankle socks with colorful pastel stripes",
+"shoes": "white sneakers",
+"accessories": [
+"Colorful plastic bracelets",
+"Chunky colorful rings",
+"Sparkling belly chain",
+"hairstyle": 
+"type": "Y2K half-up half-down",
+"details": "Pastel flowers clips,thin front tendrils, wavy dark brown hair with bubblegum-pink tint on the lower strands, iconic early-2000s look."
+additional_visuals": 
+"Heart, star, and butterfly stickers",
+"Retro sparkles",
+"Polaroid frames",
+"Neon outlines",
+"Doodle borders",
+"Magazine cutout texts: 'SO CUTE!', '199X!', 'GIRL VIBES'",
+"Pastel lighting",
+"Glossy dreamy retro glow",
+"Ultra-aesthetic scrapbook layout"
+photography_rendering": {
+"color_grading": "Cinematic neon Y2K",
+"lighting": "Soft flash lighting","skin_texture": "Smooth glossy finish",
+"rendering": "High-detail hyperrealistic Y2K scrapbook tone",
+"quality": "8K",
+"composition": "Perfectly balanced and artistic"
+negative_prompt": "no realism that breaks Y2K aesthetic, no modern 2020s clothing, no messy composition, no blurry face, no distorted hands, no extra limbs, no face warping, no low resolution, no grain, no muted colors, no watermark, no AI artifacts"
+```
+
+**中文提示词：**
+```
+facelock_identity："true",
+“准确率”： “100%”，
+场景：“色彩缤纷的Y2K剪贴簿海报美学，鲜艳的贴纸，多个人物穿着相同的服装和发型，摆出不同的姿势，并配以剪纸，色彩斑斓的笔触和线条，无框拼贴风格。包含：手指比出心形的特写镜头，全身蹲姿托腮手持白色拍立得相机，中景吹着粉色泡泡糖抚摸脸颊，中景抱着猫优雅微笑，优雅地坐着眨着一只眼睛比出和平手势，以及手持雏菊的中景。全息纹理、柔和的渐变色、闪光点缀、趣味涂鸦、杂志剪贴图案，布局看似混乱却又平衡，极具艺术性和视觉吸引力。”
+主主题：{
+“描述”：“一位年轻的千禧年风格女性，是剪贴簿拼贴画的中心焦点。”
+"style_pose": "俏皮自信的Y2K姿势——微微侧身扭胯，一只手拿着镜头光晕钥匙扣，脸朝向镜头，表情可爱又酷，微微嘟嘴，散发出2000年代初期的抓拍氛围。"
+全套服装”： {
+上衣：浅色短款宽松毛衣，带有刺绣贴片。
+“下装”：“粉色裙子配白色腰带”，
+“袜子”：“白色短袜，带有彩色粉彩条纹”，
+“鞋子”：“白色运动鞋”，
+“配件”： [
+“彩色塑料手镯”
+“厚重的彩色戒指”，
+“闪亮的肚链”
+“发型”：
+"type": "Y2K 半上半下",
+“细节”：“粉彩花朵发夹，前额的细碎发丝，深棕色波浪卷发，发梢带有泡泡糖粉色，2000 年代初期的标志性造型。”
+additional_visuals：
+“心形、星星和蝴蝶贴纸”
+“复古闪光”，
+“宝丽来相框”，
+“霓虹轮廓”，
+“涂鸦边框”
+“杂志剪报上的文字：‘太可爱了！’、‘199X！’、‘少女心’”
+“柔和的灯光”，
+“光泽梦幻的复古光芒”，
+“超美剪贴簿布局”
+摄影渲染：{
+"color_grading": "电影霓虹 Y2K"
+“lighting”: “柔和闪光灯照明”,“skin_texture”: “光滑光泽表面”,
+“渲染”：“高细节超写实Y2K剪贴簿色调”，
+“质量”: “8K”
+“构图”：“完美平衡且富有艺术性”
+negative_prompt": "不追求打破 Y2K 美学的写实效果，不穿 2020 年代的现代服装，不做凌乱的构图，不模糊的脸，不扭曲的手，不添加额外的肢体，不扭曲脸部，不降低分辨率，不添加颗粒感，不降低色彩饱和度，不添加水印，不添加 AI 伪影"
+```
+
+<a id="prompt-693"></a>
+## 案例 693：写实照片定格JOJO风格 (来源 [@AI_GIRL_DESIGN](https://x.com/AI_GIRL_DESIGN/status/1994374306327847341)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/693.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-写实照片定格JOJO风格">
+</div>
+
+**提示词：**
+```
+Use the uploaded photo as the base.
+
+Keep the person’s **face, eyes, hairstyle, makeup, outfit, and overall identity** clearly recognizable and photorealistic.
+Do NOT turn the whole image into a drawing.
+Do NOT replace or redraw the background; only transform the perspective as needed.
+
+===================================================
+TRANSFORM THE POSE — EXTREME “JOJO-STYLE” POSES
+===================================================
+Repose the body into a **randomized, exaggerated JoJo-style pose**, pushing the limits of human flexibility:
+- extreme torso twist, strong contrapposto
+- head tilt with dramatic confidence
+- one hand framing the face, one arm extended or arched
+- bold leg positions (crossed, wide stance, pointed toes)
+
+The pose must be:
+- anatomically plausible but exaggerated like JoJo
+- stylish, flamboyant, theatrical
+
+Maintain realistic lighting and natural cloth deformation.
+
+===================================================
+APPLY EXTREME CAMERA ANGLES (RANDOM EACH TIME)
+===================================================
+Transform the camera viewpoint to create striking JoJo-style drama:
+Choose **one random angle** from the following list for each generation:
+
+- **Ultra low-angle (“仰ぎ見”) shot**: camera near the ground looking upward
+- **Ultra high-angle (“見下ろし”) shot**: camera directly above looking down
+- **Dynamic wide-angle (20–24mm)**: strong perspective distortion
+- **Super wide-angle (14mm)** for extreme depth & stretched limbs
+- **Fisheye lens effect** with curved perspective lines
+- **Dutch-angle (tilted horizon)** for manga-like tension
+- **Close-up with forced perspective**: large foreground hand reaching toward the camera
+- **Long-lens compression (85–135mm)** but still JoJo dramatic
+
+Rules:
+- The face must remain recognizable and photorealistic in the new angle.
+- The background may be warped to match the new perspective, but must remain the same scene.
+- No cartoon effects on the person themselves.
+
+===================================================
+ADD MANGA-STYLE SFX (JOJO ONOMATOPEIA)
+===================================================
+Add dramatic Japanese SFX in bold black-and-white ink lines:
+- 「ゴゴゴゴゴ…」
+- 「ドドドドド…」
+- 「ズキューーーン！」
+- 「バァーーーン！！」
+- 「メメタァ！」
+- 「ガオンッ！」
+
+Place them:
+- floating behind the person
+- along the sides of the pose
+- integrated with the new camera angle perspective
+Do NOT cover the person’s face.
+
+===================================================
+OPTIONAL MANGA LINES
+===================================================
+Add subtle JoJo-style:
+- speed lines
+- radiating impact lines
+- perspective shock lines
+
+But keep the original background visible through them.
+
+===================================================
+FINAL GOAL
+===================================================
+Create a realistic photo where:
+- the person remains fully recognizable,
+- their body is transformed into a bold, dramatic JoJo-style pose,
+- the camera angle is extreme and cinematic (low-angle, high-angle, fisheye, wide-angle, etc.),
+- powerful manga SFX surround them in true JoJo fashion.
+
+The image should feel like a **JoJo splash page happening inside a real photograph**.
+```
+
+<a id="prompt-692"></a>
+## 案例 692：棕色长发的年轻女子自拍照 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1995705447051837723)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/692.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-棕色长发的年轻女子自拍照">
+</div>
+
+**提示词：**
+```
+{
+  "type": "image_generation",
+  "subject": {
+    "reference": "Use uploaded photo for 100% face and body consistency",
+    "description": "Young woman with long brown hair",
+    "attire": {
+      "outerwear": "Cream/off-white denim jacket",
+      "innerwear": "White t-shirt",
+      "accessories": "Apple digital watch on wrist"
+    }
+  },
+  "pose": {
+    "action": "Taking a mirror selfie",
+    "framing": "Close-up portrait"
+  },
+  "props": {
+    "phone_model": "White Nothing Phone (2)",
+    "phone_details": "Distinctive transparent back design visible"
+  },
+  "environment": {
+    "lighting": "Soft and warm",
+    "background": "Blurred indoor context"
+  },
+  "style": {
+    "aesthetic": "Ultrarealistic, high-detail, 8k resolution",
+    "medium": "Photography"
+  },
+  "text_overlay": {
+    "content": "Shreya Yadav",
+    "placement": "Signature style"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"type": "image_generation",
+“主题”： {
+“参考照片”：“请使用上传的照片以确保面部和身体100%一致”。
+描述：一位有着棕色长发的年轻女子，
+着装：{
+“外套”：“米白色牛仔夹克”，
+“内衣”：“白色T恤”，
+配件：手腕上的苹果数字手表
+}
+},
+"姿势": {
+“动作”：“拍镜子自拍”，
+“构图”: “特写肖像”
+},
+"props": {
+"phone_model": "White Nothing Phone (2)" ,
+"phone_details": "独特的透明后盖设计清晰可见"
+},
+“环境”： {
+“灯光”：“柔和温暖”，
+“背景”：“模糊的室内环境”
+},
+“风格”： {
+“美学”：“超逼真、高细节、8K分辨率”
+“媒介”: “摄影”
+},
+"text_overlay": {
+内容：Shreya Yadav，
+“位置”: “签名风格”
+}
+}
+```
+
+<a id="prompt-691"></a>
+## 案例 691：用英文日文标注所有物品 (来源 [@ytiskw](https://x.com/ytiskw/status/1995730583373197440)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/691.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-用英文日文标注所有物品">
+</div>
+
+**中文提示词：**
+```
+请画一幅卧室的插图。用英文/日文标注所有物品。请按以下格式书写：英文（日文）。
+```
+
+<a id="prompt-690"></a>
+## 案例 690：双语认知大发现-海底世界 (来源 [@nuannuan_share](https://x.com/nuannuan_share/status/1995761102295384483)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/690.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-双语认知大发现-海底世界">
+</div>
+
+**中文提示词：**
+```
+[SCENE_THEME] = 海底世界
+[TARGET_AGE] = 2–5 岁
+
+生成一张可出版级的儿童认知「扁平 Q 版卡通」海底世界全景长图（Vertical A4 Panoramic Flat Cute Cartoon）。整体画风：粗线条、圆润造型、亮丽但柔和的色彩、无尖角安全风格、大块形状、高对比度、适合幼儿认知的简化卡通图形。画面要求干净、清晰、有逻辑，物体边界明显。分辨率为超清 8K。
+
+# 一、标题区（Top Banner）
+顶部加入大标题：《海底世界 双语认知大发现》。
+字体为：超大号圆润卡通字体（饱满、彩色、柔影）。
+两侧加入可爱的卡通海洋小图标（迷你海星、小贝壳、小水泡）。
+
+# 二、主体场景（Main Panorama）
+构图：超宽扁平卡通海底场景。前景与中景尽量清晰，不使用复杂景深；保持简单、干净的儿童友好式分区。整体像一幅“海底乐园地图”。
+
+元素要求：
+- 所有海洋生物为大头 Q 版卡通
+- 线条粗、边缘柔和
+- 色彩鲜明、对比明确
+- 结构简单，便于儿童识别形状
+
+加入 1–2 位引导角色（Q版潜水宝宝 / 小海豚伙伴），用夸张动作引导视线。
+
+# 三、认知物体清单（Core Objects）
+所有物体要求：圆润、扁平、卡通、大块面、易识别。
+
+【核心大件（5–8 个）】
+章鱼  
+海龟  
+鲨鱼  
+海豚  
+小丑鱼  
+鲸鱼  
+海马  
+螃蟹
+
+【中小件物体（8–12 个）】
+海星  
+贝壳  
+水母  
+珊瑚  
+小泡泡群  
+小鱼（多色）  
+海草  
+沙滩球  
+宝箱  
+海底指路牌
+
+【环境元素（不限量）】
+简化海浪、扁平珊瑚群、浅色海底沙土、贝壳碎片、水泡轨迹、Q版岩石。
+
+# 四、双语标签系统（Bilingual Labeling System）
+为所有主要认知对象添加三行标签牌（扁平圆角矩形、软色背景、简洁卡通风）。
+
+格式固定：
+第一行：中文（超粗圆体）
+第二行：带声调拼音
+第三行：英文（圆润无衬线）
+
+示例：
+[ 章 鱼 ]
+[ zhāng yú ]
+[ Octopus ]
+
+标签颜色：浅奶黄或浅蓝  
+字体：清晰、粗、易读  
+标签放置在物体附近空白区。
+
+# 五、指示箭头（Flat Cute Arrow）
+使用扁平卡通风格箭头：
+- 粗线条、圆头  
+- 颜色醒目（橙 / 蓝）  
+- 一端连接标签，一端贴近物体边界  
+- 禁止箭头交叉，保持整体整洁有序。
+
+# 六、风格收束（统一输出）
+Flat Cute Cartoon Style；
+Bright & Soft Color Palette；
+Round Shapes & Child-safe Edges；
+Clean Separation of Elements；
+Bilingual Labels + Clear Arrows；
+8K Ultra HD；
+Simple, Fun, Easy-to-read Composition。
+```
+
+<a id="prompt-689"></a>
+## 案例 689：双语认知大发现-交通工具 (来源 [@nuannuan_share](https://x.com/nuannuan_share/status/1995761102295384483)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/689.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-双语认知大发现-交通工具">
+</div>
+
+**中文提示词：**
+```
+[SCENE_THEME] = 交通工具
+[TARGET_AGE] = 2–5 岁
+
+生成一张可出版级的儿童认知「黏土沙盘全景长图」（Vertical A4 Panoramic Claymation Diorama）。画面风格：软萌黏土 3D、圆润、安全、马卡龙+莫兰迪色、大量柔光与体积光、统一材质、8K Ultra HD、Cinema 4D 可爱渲染。
+
+# 一、标题区（Top Banner）
+在最顶部加入大标题：《交通工具 双语认知大发现》。
+使用超大号圆滚滚黏土气球字（彩色+高光）。两侧放置可爱的小型交通工具黏土浮雕（迷你飞机、迷你汽车、迷你船锚等）。
+
+# 二、主体场景（Main Diorama）
+构图：Wide-angle 微缩沙盘视角。前景与中景保持全焦清晰；背景轻度虚化；按“分组布局 + 留白呼吸感”摆放。
+
+场景风格：像一个大型“交通工具乐园玩具沙盘”，地面有道路、滑轨、机场跑道、小型港口等。
+
+加入 1–2 位引导角色（探险宝宝 / 黏土小狗 / 迷你机器人），做出指路和兴奋的动作，引导孩子探索车辆。
+
+# 三、认知物体清单（Core Objects）
+所有物体必须圆润、无尖角、黏土质感。
+
+【核心大件（5–8 个）】
+请放在主要区域：
+小汽车  
+救护车  
+校车  
+消防车  
+飞机  
+高铁  
+公交车  
+轮船
+
+【中小件物体（8–12 个）】
+散点式围绕大件摆放：
+红绿灯  
+交通锥  
+方向牌  
+道路栏杆  
+油桶  
+小轮胎  
+小螺丝工具  
+交通岗亭  
+风向标  
+小停机坪标志
+
+【环境元素（不限量）】
+柔软黏土道路  
+圆滚滚路灯柱  
+棉花糖云朵  
+黏土树丛  
+小湖泊  
+小桥  
+迷你机场跑道条纹
+
+# 四、双语标签系统（Bilingual Labeling System）
+为所有需要认知的交通工具加入三行软胶标签牌（圆角、厚边、轻浮雕），背景奶白或浅黄。
+
+格式固定：
+第一行：中文（超粗圆体）
+第二行：带声调拼音
+第三行：英文（圆润无衬线）
+
+示例：
+[ 汽 车 ]
+[ qì chē ]
+[ Car ]
+
+# 五、精准箭头（3D Clay Arrow）
+使用粗壮圆润的 3D 黏土箭头（橙黄或粉蓝）。一端贴标签牌，一端精准指向对应车辆。禁止箭头交叉。标签牌放在物体最近的空白区，确保画面清晰有序。
+
+# 六、风格收束（统一模型输出）
+Wide Panoramic Claymation Diorama；
+Soft Pastel Colors；
+Round & Child-safe Edges；
+Rich but Organized Composition；
+Precise Clay Arrows + Bilingual Labels；
+8K Ultra HD；
+Soft Volumetric Lighting；
+Cinema 4D cute render style
+```
+
+<a id="prompt-688"></a>
+## 案例 688：一位魅力四射的女性超逼真8K肖像 (来源 [@xmliisu](https://x.com/xmliisu/status/1995762747527626900)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/688.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-一位魅力四射的女性超逼真8K肖像">
+</div>
+
+**提示词：**
+```
+{
+  "prompt_structure": {
+    "subject": {
+      "archetype": "Glamorous woman",
+      "facial_reference": "Use uploaded image features",
+      "pose": "Three-quarter profile, body angled toward camera, arm lifted elegantly near face",
+      "action": "Holding a cigarette between fingers, holding a small metallic lighter in the other hand",
+      "expression_and_mood": "Sultry, confident, seductive, intimate"
+    },
+    "styling": {
+      "hair": "Voluminous golden-blonde retro waves, sculpted 1950s pin-up bangs, soft curls framing face",
+      "wardrobe": "Black satin backless dress, ultra-thin side straps, dramatic open silhouette revealing waist and hips",
+      "accessories": "Large stacked silver rhinestone bracelets, small metallic lighter",
+      "texture_notes": "Silky satin texture, sparkling rhinestones, glossy lips"
+    },
+    "composition": {
+      "setting": "Old Hollywood nightlife, smoky vintage-noir atmosphere",
+      "lighting": "Warm, dramatic, low-key, deep shadows, golden highlights on cheekbones",
+      "framing": "Tight portrait framing"
+    },
+    "technical_specs": {
+      "resolution": "8k ultra-high-resolution",
+      "visual_style": "Hyper-realistic, cinematic, polished",
+      "camera_effects": "Shallow depth of field, soft film-grain texture"
+    }
+  },
+  "final_prompt_string": "Hyper-realistic 8k portrait of a glamorous woman with [uploaded facial features], vintage-noir style. She stands in three-quarter profile, sultry and confident, wearing a black satin backless dress with ultra-thin side straps revealing her waist. Hair styled in voluminous golden-blonde 1950s retro waves and pin-up bangs. She holds a cigarette elegantly near her face, wearing stacked silver rhinestone bracelets. Warm, dramatic low-key lighting with deep shadows and golden highlights. Smoky, intimate old Hollywood nightlife atmosphere. Shot on ultra-high-resolution camera, shallow depth of field, soft film-grain texture."
+}
+```
+
+**中文提示词：**
+```
+{
+"prompt_structure": {
+“主题”： {
+“原型”：“魅力女性”，
+"facial_reference": "使用上传的图像特征",
+“姿势”：“四分之三侧面像，身体朝向镜头，手臂优雅地抬起靠近脸部”，
+“动作”：“手指间夹着一支香烟，另一只手拿着一个小型金属打火机”，
+"expression_and_mood": "性感、自信、诱人、亲密"
+},
+"样式": {
+“头发”：“蓬松的金色复古波浪卷发，精心修剪的 1950 年代复古刘海，柔和的卷发修饰脸型”，
+“衣橱”： “黑色缎面露背连衣裙，超细侧带，夸张的露背设计，展现腰臀曲线”
+“配饰”：“大型叠戴银色水钻手镯，小型金属打火机”，
+"texture_notes": "丝滑缎面质感，闪亮水钻，亮泽双唇"
+},
+“作品”： {
+“场景”：“老好莱坞的夜生活，烟雾缭绕的复古黑色氛围”，
+“灯光”：“温暖、戏剧化、低调，深邃的阴影，颧骨上的金色高光”，
+“构图”： “紧凑型人像构图”
+},
+"technical_specs": {
+“分辨率”: “8K 超高分辨率”
+"视觉风格": "超写实、电影化、精致"
+“相机效果”： “浅景深，柔和的胶片颗粒纹理”
+}
+},
+"final_prompt_string": "一张超逼真的8K肖像，展现了一位魅力四射的女性，拥有[上传的面部特征]，风格复古而神秘。她以四分之三侧面示人，性感而自信，身着黑色缎面露背礼服，纤细的侧边绑带勾勒出纤细的腰身。头发蓬松，呈20世纪50年代复古的金色波浪卷发，并配以复古的刘海。她优雅地将香烟夹在脸旁，手腕上戴着层叠的银色水钻手镯。温暖而富有戏剧性的低调光线，深邃的阴影和金色的高光交相辉映，营造出烟雾缭绕、私密而迷人的老好莱坞夜生活氛围。采用超高分辨率相机拍摄，浅景深，呈现柔和的胶片颗粒质感。"
+}
+```
+
+<a id="prompt-687"></a>
+## 案例 687：生成一张指定时间地点的逼真照片 (来源 [@minchoi](https://x.com/minchoi/status/1995707916649640404)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/687.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-生成一张指定时间地点的逼真照片">
+</div>
+
+**提示词：**
+```
+Generate a photorealistic image of a cafe terrace in the Marais district of Paris on a Wednesday morning in March 2025. It is a crisp, cool spring morning with clear skies. Locals are drinking coffee. In sharp focus should be a young woman with a pixie cut wearing a scarf, stirring a cappuccino and looking thoughtfully to the side; the waiter and street traffic behind her are blurred. The photo should have the candid, natural morning light feel of an iPhone image.
+```
+
+**中文提示词：**
+```
+请生成一张逼真的照片，展现2025年3月某个星期三早晨巴黎玛莱区一家咖啡馆的露台。这是一个清爽凉爽的春日早晨，天空晴朗。当地人正在喝咖啡。照片中应清晰地呈现一位留着精灵短发、围着围巾的年轻女子，她正在搅拌一杯卡布奇诺，若有所思地看向一旁；她身后的服务员和街上的车辆则应虚化。照片应呈现出类似iPhone拍摄的自然晨光感。
+```
+
+<a id="prompt-686"></a>
+## 案例 686：中国每个城市标志性美食 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1995863480570970582)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/686.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-中国每个城市标志性美食">
+</div>
+
+**中文提示词：**
+```
+制作一张包含台湾的中国地图，每个省市都用该省市最著名的食物来构成（各省市看起来应该像是由食物组成的，而不是食物的图片）。仔细检查，确保每个省市都正确无误。
+```
+
+<a id="prompt-685"></a>
+## 案例 685：3x3的网格特写照片 (来源 [@so_ainsight](https://x.com/so_ainsight/status/1995494784803426326)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/685.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3x3的网格特写照片">
+</div>
+
+**中文提示词：**
+```
+使用这张女性照片，生成共 9 张图像，排列成 3x3 的网格。生成的图像数量不得超过 9 张。
+
+所有照片必须为半身像或更近的特写（半身像、特写、肖像构图）。请勿拍摄广角照片、全身照、远景照片或广角照片。
+
+请确保所有九张照片中女性的外貌、五官、发型和整体氛围保持一致。但是，只要不超出半身像构图的范畴，您可以更改拍摄地点、光线、角度和构图。
+
+请仅输出3x3网格所需的9张图片。不要生成任何其他图片、预览图或差异化版本。
+```
+
+<a id="prompt-684"></a>
+## 案例 684：哥特式电影风格的肖像画 (来源 [@YaseenK7212](https://x.com/YaseenK7212/status/1995536194327777287)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/684.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-哥特式电影风格的肖像画">
+</div>
+
+**提示词：**
+```
+{
+  "image_request": {
+    "goal": "Create a cinematic portrait based on the provided reference photo, preserving the subject’s face exactly as it appears in the reference (no alterations to facial structure, proportions, features, or expression).",
+    "subject": {
+      "identity_preservation": {
+        "description": "The face must remain completely unchanged from the reference photo — 1000% identical in all visible facial details, proportions, contours, expression, and micro-features.",
+        "notes": "No stylization, morphing, or reinterpretation of the facial structure. Only the scene, pose, and atmosphere change."
+      },
+      "pose": {
+        "body_position": "The woman is standing with her back to the camera.",
+        "head_turn": "She turns her head over her shoulder, looking toward the viewer.",
+        "gaze": "Soft, melancholic, and intense."
+      },
+      "appearance": {
+        "skin": "Smooth, pale skin with gentle cinematic texture.",
+        "hair": {
+          "style": "Long, straight hair.",
+          "movement": "Slightly tousled by the wind."
+        },
+        "clothing": {
+          "top": "Black backless top with delicate thin straps draping down the back."
+        },
+        "props": {
+          "bouquet": "A bouquet of black roses held close to her face."
+        }
+      }
+    },
+    "environment": {
+      "setting": "A moody lakeside or riverside.",
+      "weather": "Overcast grey skies.",
+      "atmosphere": "Soft, misty, melancholic, and subtly gothic."
+    },
+    "lighting": {
+      "type": "soft diffuse lighting",
+      "source": "natural overcast daylight",
+      "tone": "desaturated, muted highlights",
+      "mood": "gothic, melancholic, cinematic",
+      "shadow_quality": "soft, low-contrast shadows"
+    },
+    "color_grading": {
+      "palette": "desaturated neutrals, soft greys, washed-out cool tones",
+      "mood": "cinematic and atmospheric"
+    },
+    "composition": {
+      "framing": "Cinematic shoulder-turned portrait with focus on the face and roses.",
+      "depth": "Shallow depth of field; background slightly blurred.",
+      "emphasis": "Emotional intensity in the eyes; contrast between pale skin and black roses/top."
+    },
+    "style": {
+      "visual_style": "cinematic realism",
+      "tone": "moody, atmospheric",
+      "genre_influence": "dark romantic, gothic melancholy"
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_request": {
+“目标”：“根据提供的参考照片创作一幅电影风格的肖像画，完全保留照片中人物的面部特征（不得改变面部结构、比例、五官或表情）。”
+“主题”： {
+"identity_preservation": {
+“描述”：“面部必须与参考照片完全一致——所有可见的面部细节、比例、轮廓、表情和微特征都必须1000%相同。”
+备注：“面部结构未进行任何风格化、变形或重新诠释。仅场景、姿势和氛围有所改变。”
+},
+"姿势": {
+“body_position”: “该女子背对着镜头站立。”
+“head_turn”：她转过头，看向观众。
+“凝视”：“柔和、忧郁而强烈。”
+},
+“外貌”： {
+“肌肤”：“光滑、白皙的肌肤，具有柔和的电影质感。”
+“头发”： {
+“发型”：“长直发。”
+“动感”：“被风轻轻吹乱。”
+},
+“衣服”： {
+“上衣”：“黑色露背上衣，背部有纤细的吊带垂下。”
+},
+"props": {
+“花束”：“她将一束黑玫瑰捧在脸旁。”
+}
+}
+},
+“环境”： {
+“场景”：“一个阴郁的湖边或河边。”
+天气：阴天，天空灰蒙蒙的。
+“氛围”：“柔和、朦胧、忧郁，略带哥特式风格。”
+},
+“灯光”： {
+“类型”：“柔和漫射光”，
+“来源”：“自然阴天日光”，
+“色调”：“去饱和、柔和的高光”，
+“氛围”：“哥特式、忧郁、电影感”，
+"shadow_quality": "柔和、低对比度的阴影"
+},
+"color_grading": {
+“调色板”：“低饱和度的中性色、柔和的灰色、褪色的冷色调”，
+“氛围”：“电影感十足，富有氛围感”
+},
+“作品”： {
+“构图”：“电影般的侧脸肖像，焦点集中在脸部和玫瑰花上。”
+“景深”：“浅景深；背景略微模糊。”
+“强调”：“眼神中流露出的情感强度；苍白的皮肤与黑色玫瑰/上衣形成对比。”
+},
+“风格”： {
+"视觉风格": "电影写实主义",
+“基调”：“忧郁的，有氛围的”，
+"genre_influence": "黑暗浪漫主义，哥特式忧郁"
+}
+}
+}
+```
+
+<a id="prompt-683"></a>
+## 案例 683：花园里的婚纱照 (来源 [@miilesus](https://x.com/miilesus/status/1995536025859354724)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/683.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-花园里的婚纱照">
+</div>
+
+**提示词：**
+```
+{
+ "Use [man_face] and [woman_fac]. Ultra-realistic high-end luxury wedding photography of a bride and groom standing closely together in an elegant outdoor ceremony setting. Golden hour sunlight casting warm soft highlights, natural rim light around their silhouettes, cinematic dynamic range. The bride wearing a premium handcrafted lace wedding gown with intricate embroidery details, soft flowing veil illuminated by backlight, subtle pearl accessories, refined natural bridal makeup with luminous skin texture, finely detailed eyelashes and catchlights in eyes. The groom wearing a tailored black tuxedo with satin lapels, crisp white shirt, luxury bow tie, polished boutonniere. Both posing in a candid yet editorial fashion – gentle eye contact, soft romantic smile, hands touching gracefully. Background featuring a softly blurred bokeh garden with roses, organic greenery, warm tones, shallow depth of field created by an 85mm f/1.4 full-frame lens. High-definition textures, ultra sharp facial details, realistic pores, true-to-life skin tones, natural hair strands, perfect color grading inspired by premium wedding photographers. Soft pastel color palette, creamy highlights, subtle film grain, magazine cover aesthetic. Cinematic global illumination, perfect exposure balance, no distortion, no artifacts. Award-winning photography style with fine-art wedding composition, dramatic yet soft lighting, museum-quality detail clarity.",
+  
+  "negative_prompt": "cartoon, illustration, painting, CGI, artificial look, uncanny valley, distorted facial features, extra limbs, deformed body parts, mismatched eyes, unnatural skin texture, plastic skin, blur, noise, pixelation, low resolution, oversaturated colors, washed out colors, hard flash, harsh shadows, blown highlights, low contrast, lens distortion, fisheye, bad anatomy, extra fingers, incorrect hand shapes, watermark, text, logo, border, frame, compression artifacts, glitch, unrealistic proportions, double face, duplicate subjects, warped background",
+
+  "camera_settings": {
+    "lens": "85mm f/1.4 prime",
+    "iso": 100,
+    "shutter_speed": "1/400",
+    "aperture": "f/1.4",
+    "white_balance": "5200K daylight"
+  },
+
+  "style": {
+    "lighting": "soft natural golden hour, cinematic rim light, high dynamic range",
+    "color_grade": "premium wedding film look, pastel tones, creamy highlights, warm undertones",
+    "atmosphere": "romantic, elegant, fine-art editorial"
+  },
+
+  "composition": {
+    "framing": "mid-shot portrait, slight angle, bride and groom centered",
+    "focus": "sharp eyes, smooth bokeh background",
+    "depth_of_field": "shallow, subject separation emphasized"
+  },
+
+  "width": 1024,
+  "height": 1536,
+  "num_inference_steps": 36,
+  "guidance_scale": 8.0,
+  "seed": 12345
+}
+```
+
+**中文提示词：**
+```
+{
+使用[man_face]和[woman_fac]。超逼真的高端奢华婚礼摄影，展现新郎新娘在优雅的户外仪式场地中亲密依偎的画面。金色的阳光洒下温暖柔和的高光，自然的轮廓光勾勒出他们的身影，营造出电影般的动态范围。新娘身着高级手工蕾丝婚纱，精致的刺绣细节令人叹为观止，飘逸的头纱在逆光下熠熠生辉，搭配低调的珍珠配饰，精致自然的妆容展现出肌肤的光泽感，纤长的睫毛和闪亮的眼神光更添动人。新郎身着剪裁合身的黑色礼服，缎面翻领，搭配挺括的白色衬衫、奢华的领结和精致的胸花。两人以一种自然而又不失时尚感的姿态摆出姿势——温柔的眼神交流，浪漫的微笑，双手优雅地相触。背景是一片柔和虚化的花园，点缀着玫瑰、绿植和温暖的色调，85mm f/1.4全画幅镜头营造出浅景深效果。高清的纹理，极其清晰的面部细节，逼真的画面。毛孔清晰可见，肤色自然逼真，发丝纹理自然，色彩分级完美，灵感源自顶级婚礼摄影师。柔和的粉彩色调，奶油般的亮部，细腻的胶片颗粒，杂志封面般的质感。电影级的整体光照，完美的曝光平衡，无畸变，无瑕疵。屡获殊荣的摄影风格，融合艺术婚礼构图、戏剧性却又柔和的光线，以及博物馆级别的细节清晰度。
+
+"negative_prompt": "卡通、插画、绘画、CGI、人工质感、恐怖谷效应、面部特征扭曲、多余肢体、身体部位畸形、眼睛不对称、皮肤纹理不自然、塑料皮肤、模糊、噪点、像素化、低分辨率、色彩过饱和、色彩褪色、强光、阴影过重、高光过曝、低对比度、镜头畸变、鱼眼效果、人体解剖结构错误、多余手指、手型错误、水印、文字、标志、边框、画框、压缩伪影、故障、比例失调、双面人、重复人物、背景扭曲",
+
+"camera_settings": {
+镜头：85mm f/1.4 定焦镜头
+“iso”：100，
+"shutter_speed": "1/400",
+光圈：f/1.4，
+“white_balance”: “5200K 日光”
+},
+
+“风格”： {
+“照明”：“柔和的自然黄金时段、电影般的轮廓光、高动态范围”，
+"color_grade": "高级婚礼影片风格，柔和的色调，奶油色的高光，温暖的底色",
+“氛围”： “浪漫、优雅、艺术感十足的编辑风格”
+},
+
+“作品”： {
+“构图”：“中景肖像，略微倾斜，新郎新娘居中”，
+“焦点”：“锐利的眼睛，柔和的散景背景”，
+"depth_of_field": "浅景深，强调主体分离"
+},
+
+宽度：1024，
+“高度”：1536，
+"num_inference_steps": 36,
+"guidance_scale": 8.0,
+种子：12345
+}
+```
+
+<a id="prompt-682"></a>
+## 案例 682：微缩3D卡通视图展城市最高的三座建筑 (来源 [@michalmalewicz](https://x.com/michalmalewicz/status/1995532450861080956)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/682.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-微缩3D卡通视图展城市最高的三座建筑">
+</div>
+
+**提示词：**
+```
+Present a clear, side miniature 3D cartoon view of [YOUR CITY] tallest buildings. Use minimal textures with realistic materials and soft, lifelike lighting and shadows. Use a clean, minimalistic composition showing exactly the three tallest buildings in Sopot, arranged from LEFT to RIGHT in STRICT descending height order. The tallest must appear visibly tallest, the second must be clearly shorter than the first, and the third must be clearly shorter than the second.
+All buildings must follow accurate relative proportions: if a building is taller in real life, it MUST be taller in the image by the same approximate ratio. No building may be visually stretched or compressed.
+Each building should stand separately on a thin, simple ceramic base. Below each base, centered text should display:
+Height in meters — semibold sans-serif, medium size
+Year built — lighter-weight sans-serif, smaller size, directly beneath the height text
+Provide consistent padding, spacing, leading, and kerning. Write “YOUR CITY NAME” centered above the buildings, using a medium-sized sans-serif font.
+ No building top should overlap or touch the text above.Use accurate architectural proportions based on real-world references.Maintain consistent camera angle and identical scale for each building model.
+No forced perspective. Use straight-on orthographic-style rendering. Do not exaggerate or stylize size differences beyond proportional accuracy.
+
+Use a square 1080×1080 composition.Use a clean, neutral background. Ensure no extra objects are present.
+```
+
+**中文提示词：**
+```
+以清晰的侧面微缩3D卡通视图展示[您的城市]最高的三座建筑。使用极简的纹理，采用逼真的材质，并运用柔和自然的灯光和阴影。构图简洁明了，清晰地展现索波特最高的三座建筑，并严格按照从左到右的高度递减顺序排列。最高的建筑必须明显高于第一座，第二座必须明显低于第一座，第三座必须明显低于第二座。
+所有建筑物必须遵循准确的相对比例：如果建筑物在现实生活中更高，那么在图像中也必须按大致相同的比例更高。任何建筑物都不得在视觉上被拉伸或压缩。
+每栋建筑模型都应单独放置在一个纤薄简洁的陶瓷底座上。每个底座下方居中显示文字：
+身高（米）— 半粗体无衬线字体，中等字号
+建造年份——较轻的无衬线字体，较小的字号，位于高度文本的正下方
+保持字间距、行距和字距一致。使用中等大小的无衬线字体，在建筑物上方居中书写“您的城市名称”。
+建筑物顶部不得与上方文字重叠或接触。请使用基于真实世界参考资料的精确建筑比例。保持每个建筑模型拍摄角度一致，并采用相同的比例尺。
+避免使用透视错觉。采用正面正投影式渲染。不要夸大或过度修饰尺寸差异，使其超出比例的精确范围。
+
+使用 1080×1080 的正方形构图。使用干净、中性的背景。确保画面中没有多余的物体。
+```
+
+<a id="prompt-681"></a>
+## 案例 681：反推图片json提示词 (来源 [@TugserOkur](https://x.com/TugserOkur/status/1995565865727664507)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/681.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-反推图片json提示词">
+</div>
+
+**提示词：**
+```
+Convert images to JSON requests, including dimensions and detailed information.
+```
+
+**中文提示词：**
+```
+将图片转换为 JSON 请求，包括尺寸和详细信息。
+```
+
+<a id="prompt-680"></a>
+## 案例 680：OOTD手绘涂鸦分解 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1995482012124434547)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/680.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-OOTD手绘涂鸦分解">
+</div>
+
+**提示词：**
+```
+Breakdown the look into a fun OOTD Fashion Collage, 9:16. Paper scribble aesthetic with hand-drawn arrows, doodles, and handwritten labels pointing to each outfit piece. Notebook paper texture background with ink sketch style.
+```
+
+**中文提示词：**
+```
+将这身造型拆解成一个有趣的每日穿搭拼贴画，9:16。纸张涂鸦风格，手绘箭头、涂鸦和手写标签指向每件单品。笔记本纸张纹理背景，墨水素描风格。
+```
+
+<a id="prompt-679"></a>
+## 案例 679：紫禁城建筑照片展示和设计图纸 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1995676568161845603)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/679.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-紫禁城建筑照片展示和设计图纸">
+</div>
+
+**中文提示词：**
+```
+一张分割为两部分的建筑展示图，最左侧三分之一是建成后的实景照片展示，右侧三分之二是详细的建筑设计图纸。
+
+最左侧三分之一（成品展示）： 一张宏伟的、以中国北京紫禁城为风格的两层大型院落的实景照片。画面展示了一个阳光照耀下的主庭院，有重檐歇山顶的红墙黄瓦主殿和配殿，屋顶覆盖着金色的琉璃瓦，屋檐下有复杂的斗拱和精美的彩绘（如龙凤图案）。建筑坐落在汉白玉基座上，前方有雕刻的御道和石狮子。庭院内有古老的松柏和精心修剪的盆景。照片风格写实，展现出皇家园林的庄严与辉煌。
+
+右侧三分之二（建筑设计图）： 一套详细的、带有传统蓝图风格或墨线风格的两层建筑设计图纸，图纸背景为米色宣纸纹理。
+
+上方是总平面图和立面图，清晰标示出多进院落的布局，包括大门、前朝、后寝区域，以及围墙和角楼。立面图展示了建筑的层次和屋顶曲线。
+
+下方是一层和二层平面图，用中文详细标注了各个功能区，例如：“一层平面图：主殿（会客厅）、东配殿（主卧室）、西配殿（次卧室1）、书房、御膳房、回廊”、“二层平面图：藏书楼、观景台、次卧室2、休息厅”。
+
+图纸的显著位置用中文标注：“项目：北京紫禁城风格私家宅邸”、“建筑面积：约20000平方英尺”、“层数：两层”、“地点：中国北京”。图纸还包含比例尺、指北针和图例说明，线条精确，展现出复杂的木结构梁柱体系。
+
+整张图片通过一条明确的分界线将左侧的实景与右侧的图纸隔开，但两者在主题和风格上保持高度一致，共同呈现这一宏大建筑项目。
+```
+
+<a id="prompt-678"></a>
+## 案例 678：疯狂动物城朱迪和尼克讲小故事-守株待兔 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1995700840187765046)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/678.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-疯狂动物城朱迪和尼克讲小故事-守株待兔">
+</div>
+
+**中文提示词：**
+```
+第一格： 迪士尼《疯狂动物城》3D动画风格。朱迪警官穿着警服，在田野边看到一只绵羊农夫坐在一个大树桩旁边发呆。朱迪头上有一个对话气泡，里面写着中文字：“朱迪看见一个农夫坐在树桩旁发呆。”
+第二格： 迪士尼《疯狂动物城》3D动画风格。朱迪走近询问，绵羊农夫指着树桩兴奋地解释。绵羊的对话气泡写着中文字：“农夫说：'昨天有只兔子撞死在这，我在等下一只。'”
+第三格： 迪士尼《疯狂动物城》3D动画风格。朱迪听后大惊失色，耳朵竖得笔直，一脸不可置信的表情。朱迪的对话气泡写着中文字：“朱迪大惊失色：'什么？竟然指望这种偶然？'”
+第四格： 迪士尼《疯狂动物城》3D动画风格。尼克慢悠悠地走过来，戴着墨镜，手里拿着一根爪爪冰棍，一脸坏笑。尼克的对话气泡写着中文字：“尼克慢悠悠地走过来，一脸坏笑。”
+第五格： 迪士尼《疯狂动物城》3D动画风格。尼克摘下墨镜，指着绵羊农夫对朱迪解释，表情滑稽。尼克的对话气泡写着中文字：“尼克说：'萝卜头，这叫守株待兔，他在做白日梦呢。'”
+第六格： 迪士尼《疯狂动物城》3D动画风格。朱迪无奈地拉着绵羊农夫去劳动，尼克在后面摊手耸肩。朱迪的对话气泡写着中文字：“朱迪拉走农夫去干活，尼克无奈地摊手。”
+```
+
+<a id="prompt-677"></a>
+## 案例 677：现代少年奇幻漫画 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1995429494493167779)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/677.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-现代少年奇幻漫画">
+</div>
+
+**提示词：**
+```
+{
+  "intent": "A dramatic, high-energy battle scene featuring a determined young mage making a defiant declaration, in the style of modern Shonen fantasy manga.",
+  "manga_genre": "Shonen Fantasy/Action",
+  "art_style": {
+    "primary_influence": "Modern Shonen Jump style (reminiscent of Black Clover, Fairy Tail), with dynamic action and expressive character work",
+    "line_art_style": "Bold, clean lines with strong variable weight. Thick, confident outlines for characters, thin lines for magical effects and background detail. Energetic, flowing linework.",
+    "screentone_style": "Minimal screentone use to maintain high contrast and readability. Light 20% dot screentones for subtle shading on skin. Heavy use of pure white and pure black for dramatic impact."
+  },
+  "panel_design": {
+    "primary_panel_type": "FBP (Full-Body Panel): Entire character from head to feet with visible ground plane.",
+    "composition_description": "Dynamic low-angle view, looking up at the character from ground level to emphasize heroic determination and power. The character stands in a defiant pose on a cracked, debris-strewn battlefield. The ground is clearly visible beneath and around the character's feet, with rubble, broken stones, and impact cracks radiating outward. Include 15% negative space above the head and 12% below the feet to prevent cropping. The composition creates a sense of the character rising up against adversity.",
+    "aspect_ratio": "2:3",
+    "key_symbolic_effects": ["Intense speed lines radiating outward from the character's body, creating explosive energy", "Focus lines converging on the character's face and raised fist, emphasizing determination", "Magical energy aura swirling around the character, rendered with flowing, organic lines", "Small impact cracks and debris particles floating around the feet to show power and grounding"]
+  },
+  "dialogue_and_text": {
+    "speech_bubbles": [
+      {
+        "speaker": "Protagonist",
+        "bubble_type": "shout",
+        "text_content": "I won't back down! This is my fight!",
+        "placement": "Upper right area of the panel, positioned above and slightly to the right of the character's head, with the bubble tail pointing toward the character's mouth",
+        "emphasis": "bold"
+      },
+      {
+        "speaker": "Protagonist",
+        "bubble_type": "shout",
+        "text_content": "I'll protect everyone... no matter what!!",
+        "placement": "Mid-left area, positioned near the character's raised fist, with the bubble tail pointing back toward the character's face. This creates a dynamic flow of dialogue across the panel.",
+        "emphasis": "bold with triple exclamation marks for maximum intensity"
+      }
+    ],
+    "sound_effects": [
+      {
+        "sfx_text": "ゴゴゴ (GOGOGO - menacing rumble)",
+        "placement": "Integrated into the background, positioned in the upper left and lower right corners, creating a sense of ominous power building",
+        "style": "Bold, angular katakana characters rendered in a heavy, imposing font"
+      },
+      {
+        "sfx_text": "CRACKLE",
+        "placement": "Near the magical energy aura around the character's hands, integrated into the swirling energy effects",
+        "style": "Jagged, electric-style lettering that follows the flow of the magical energy"
+      }
+    ]
+  },
+  "character": {
+    "archetype": "Hot-blooded Shonen Protagonist: Determined, courageous, fiercely protective of friends, refuses to give up even when outmatched.",
+    "design_focus": "A young male mage in his mid-teens. Wild, spiky hair (classic Shonen style) with strands flying upward from the energy aura. Large, intense eyes with prominent highlights showing unwavering determination and a hint of desperation. Wearing a battle-worn fantasy adventurer outfit: a tattered cloak flowing dramatically behind him, a fitted tunic with visible fabric tension showing a lean, athletic build, armored gauntlets on his forearms, and sturdy leather boots with visible buckles and worn soles. The boots are firmly planted on the cracked ground, with detailed lacing and scuff marks. Barefoot would be inappropriate for a battlefield, so the boots are essential and clearly visible from toe to heel.",
+    "facial_expression": "Intense and defiant. Mouth open in a shout, showing gritted teeth. Brows furrowed with determination. Eyes blazing with resolve and a slight glow suggesting magical power.",
+    "pose_and_body_language": "Dynamic heroic stance: feet shoulder-width apart and fully visible, planted firmly on the cracked ground with slight forward lean suggesting readiness to charge. One fist raised to chest level, clenched tightly and glowing with magical energy. The other arm extended slightly outward for balance. Body coiled with tension and power. The pose conveys both defensive readiness and offensive intent.",
+    "symbolic_emotional_markers": ["Determination aura: jagged, flame-like lines surrounding the character's body", "Small sweat drops on the forehead indicating intense exertion and stakes", "Glowing eyes with white highlights suggesting inner power awakening", "Clenched fist with visible tension lines in the hand and forearm"]
+  },
+  "setting": {
+    "location": "A devastated battlefield. Cracked and broken stone ground with large fissures and impact craters. Rubble and debris scattered around the character's feet, with some pieces floating slightly due to magical energy. The ground texture is rough stone and dirt, clearly visible beneath the character's boots. In the blurred background, suggestions of ruined structures and a stormy sky, but kept minimal to maintain focus on the character.",
+    "time_of_day": "Dusk or stormy midday (dramatic, low-contrast lighting typical of climactic battle scenes)",
+    "atmospheric_elements": "Dust and small debris particles floating in the air. Magical energy wisps swirling around the character. Dark, ominous clouds in the background suggesting the severity of the battle. A few small embers or sparks of magical energy drifting upward from the ground."
+  },
+  "inking_and_tones": {
+    "line_weight_variation": "Strong variation. Very thick, bold outlines (2-3pt) for the character's silhouette and major forms to make them pop against the background. Medium weight (1-2pt) for clothing details, facial features, and magical effects. Thin lines (0.5-1pt) for hair strands, background rubble detail, and fine texture on the boots and gauntlets.",
+    "primary_shading_method": "Combination of crisp black fills for deep shadows (under the chin, in the hair, cast shadows on the ground) and light 20% dot screentones for mid-tone shadows on the face and clothing. Minimal screentone use overall to maintain high contrast and energy. Cross-hatching used sparingly for texture on the tattered cloak.",
+    "black_space_usage": "Strategic and balanced. Solid black used for hair shadows, the interior of the tattered cloak, and deep shadows cast by the character on the ground. Mostly white space and clean lines to maintain the bright, energetic feel of Shonen action.",
+    "screentone_density": "Sparse. Screentones used only for subtle form definition on the character's face and body. The background is kept mostly white with black linework for rubble and cracks, maintaining focus on the character."
+  },
+  "symbolism_and_effects": {
+    "motion_lines": "Intense speed lines radiating outward from the character's torso and limbs in all directions, creating a sense of explosive power and energy bursting forth. The lines are thicker near the character and taper as they extend outward.",
+    "emotional_symbols": ["Determination aura: jagged, flame-like energy lines surrounding the body", "Sweat drops on forehead for intense focus and exertion", "Glowing magical energy around the raised fist, rendered with swirling, organic lines", "Small impact lines around the feet showing firm grounding and power transfer to the earth"],
+    "onomatopoeia": ["ゴゴゴ (GOGOGO) - menacing/powerful rumble effect in the background", "CRACKLE - magical energy sound effect near the hands"]
+  },
+  "negative_directives": {
+    "style": "No photorealistic rendering, no watercolor or painterly style, no full color, no soft digital gradients, no Western comic book style, no 3D rendering, no overly detailed backgrounds that distract from the character.",
+    "content": "No weapons in hand (magic is the focus), no other characters in the frame, no overly busy background, cropped feet, missing feet, floating figure, cut-off ankles, feet out of frame, hands obscuring the face, hair completely covering the eyes, closed or neutral expression (must be intense and emotional).",
+    "artifact_suppression": "No blurred lines, no digital painting artifacts, no color bleeding, no anti-aliasing softness, cropped feet, missing toes, deformed feet, extra limbs, anatomically impossible poses, inconsistent line weight, muddy or unclear linework."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“意图”：“一场充满戏剧性和爆发力的战斗场景，一位意志坚定的年轻魔法师发表了充满反抗精神的宣言，风格类似于现代少年奇幻漫画。”
+"manga_genre": "少年奇幻/动作",
+"art_style": {
+“主要影响因素”： “现代少年Jump风格（让人想起《黑色五叶草》、《妖精的尾巴》），具有动感的动作和富有表现力的人物刻画”，
+"line_art_style": "线条粗犷有力，线条粗细变化丰富。人物轮廓粗犷自信，魔法效果和背景细节则采用纤细线条。充满活力，线条流畅。"
+"screentone_style": "尽量减少网点的使用，以保持高对比度和可读性。使用 20% 网点的浅色网点来表现皮肤上的微妙阴影。大量使用纯白和纯黑，以达到戏剧性的效果。"
+},
+"panel_design": {
+"primary_panel_type": "FBP（全身面板）：从头到脚的整个角色，地面清晰可见。"
+"composition_description": "动态的低角度视角，从地面仰视人物，强调英雄的决心和力量。人物以不屈的姿态站在满目疮痍、瓦砾遍地的战场上。人物脚下和周围的地面清晰可见，瓦砾、碎石和冲击裂缝向外辐射。头部上方留出 15% 的空白，脚下留出 12% 的空白，以避免画面裁剪。这种构图营造出人物奋起反抗逆境的气势。"
+"aspect_ratio": "2:3",
+"key_symbolic_effects": ["从角色身体向外辐射的强烈速度线，营造出爆发性的能量", "聚焦线汇聚于角色的面部和高举的拳头，强调其决心", "魔法能量光环环绕角色，以流畅的有机线条渲染", "脚部周围漂浮的细小冲击裂纹和碎片，展现力量与稳固性"]
+},
+"对话和文本": {
+"speech_bubbles": [
+{
+“说话者”：“主角”，
+"bubble_type": "喊叫",
+"text_content": "我绝不退缩！这是我的战斗！"
+“位置”：“位于面板的右上角，在角色头部上方略偏右的位置，气泡尾部指向角色的嘴部”，
+强调：粗体
+},
+{
+“说话者”：“主角”，
+"bubble_type": "喊叫",
+"text_content": "无论如何，我都会保护所有人！！"
+“位置”：“位于画面左侧中间区域，靠近角色举起的拳头，气泡尾部指向角色的脸部。这样可以在画面中营造出对话的动态流动感。”
+“强调”：“加粗并加上三个感叹号，以示最大程度的强调”
+}
+],
+"sound_effects": [
+{
+"sfx_text": "ゴゴゴ（GOGOGO - 威胁性的隆隆声）",
+“位置”：“融入背景，位于左上角和右下角，营造出一种不祥的力量积聚感”，
+"style": "粗体、棱角分明的片假名字符，采用厚重、醒目的字体呈现"
+},
+{
+"sfx_text": "噼啪声",
+“放置位置”：“靠近角色双手周围的魔法能量光环，融入到旋转的能量效果中”，
+“风格”：“锯齿状、电光质感的字体，跟随魔法能量的流动”
+}
+]
+},
+“特点”： {
+“原型”：“热血少年漫主角：意志坚定、勇敢无畏、极力保护朋友、即使实力悬殊也绝不放弃。”
+“设计重点”：一位十几岁的年轻男性魔法师。他有着狂野的刺猬头（经典少年漫画风格），几缕发丝在能量光环的映衬下向上飞舞。他那双炯炯有神的眼睛里闪烁着坚定的光芒，闪烁着一丝绝望。他身着一套饱经战火洗礼的奇幻冒险者装束：一件破旧的斗篷在他身后飘扬，一件紧身束腰外衣勾勒出他精瘦健壮的身材，前臂上戴着护手，脚上穿着结实的皮靴，靴扣清晰可见，鞋底磨损严重。皮靴牢牢地踩在龟裂的地面上，鞋带和磨损痕迹清晰可见。赤脚在战场上是不合适的，所以皮靴必不可少，从鞋头到鞋跟都清晰可见。
+“面部表情”： “表情强烈而桀骜不驯。嘴巴张开，仿佛要怒吼，露出紧咬的牙齿。眉头紧锁，充满决心。双眼燃烧着坚定的火焰，闪烁着一丝光芒，暗示着某种魔法力量。”
+“姿势与肢体语言”： “充满活力的英雄姿态：双脚与肩同宽，完全可见，稳稳地踩在龟裂的地面上，身体略微前倾，暗示着随时准备冲锋。一只拳头高举至胸前，紧紧握住，闪耀着魔法能量。另一只手臂略微向外伸展以保持平衡。身体充满张力和力量。此姿势既传达了防御的准备，也传达了进攻的意图。”
+"symbolic_emotional_markers": ["决心光环：角色身体周围环绕着锯齿状的火焰线条", "额头上的细小汗珠表明正在承受巨大的压力", "闪烁着白光的眼睛暗示着内在力量的觉醒", "紧握的拳头，手掌和前臂上可见明显的肌肉线条"]
+},
+“环境”： {
+地点：一片满目疮痍的战场。龟裂破碎的石质地面布满巨大的裂缝和撞击坑。瓦砾和碎片散落在角色脚下，部分碎片因魔法能量的作用而微微漂浮。地面纹理粗糙，由石头和泥土构成，在角色的靴子下清晰可见。模糊的背景中隐约可见残垣断壁和暴风雨的天空，但为了突出角色，这些元素被刻意弱化。
+"time_of_day": "黄昏或暴风雨的正午（戏剧性的、低对比度的光线，典型的高潮战斗场景）",
+“大气元素”：空气中漂浮着尘埃和细小的碎片。魔法能量的丝缕在角色周围盘旋。背景中阴沉的乌云暗示着战斗的严峻性。几小簇魔法能量的余烬或火花从地面向上飘散。
+},
+"inking_and_tones": {
+"line_weight_variation": "线条粗细变化丰富。人物轮廓和主要形体采用非常粗的线条（2-3pt），使其在背景中脱颖而出。服装细节、面部特征和魔法效果采用中等粗细（1-2pt）。头发、背景碎石细节以及靴子和护手上的精细纹理采用细线（0.5-1pt）。"
+“primary_shading_method”： “结合使用清晰的黑色填充来表现深阴影（下巴下方、头发中、地面上的投影），并使用20%网点的浅色网点来表现面部和衣物上的中间色调阴影。整体上尽量减少网点的使用，以保持高对比度和活力。在破烂的斗篷上少量使用交叉阴影线来表现纹理。”
+“黑位运用”：策略性且平衡。头发阴影、破烂斗篷的内衬以及角色在地面上投射的深阴影均采用纯黑色。大量留白和简洁的线条，以保持少年漫画动作戏的明亮、活力感。
+“screentone_density”：稀疏。网点仅用于勾勒人物面部和身体的细微轮廓。背景以白色为主，用黑色线条勾勒瓦砾和裂缝，使画面焦点集中在人物身上。
+},
+"symbolism_and_effects": {
+“运动线”：从角色躯干和四肢向四面八方辐射出强烈的速度线，营造出爆发力和能量迸发的感觉。线条在靠近角色处较粗，向外延伸逐渐变细。
+"emotional_symbols": ["决心光环：锯齿状的火焰状能量线环绕身体", "额头上的汗珠象征着高度集中和努力", "高举的拳头周围闪耀着魔法能量，以旋转的有机线条描绘", "脚部周围的细小冲击线象征着稳固的接地和力量传递到大地"]
+拟声词：[“ゴゴゴ (GOGOGO) - 背景中令人不安/强大的隆隆声效果”“噼啪声 - 手附近魔法能量的声音效果”]
+},
+"negative_directives": {
+“风格”：“不使用照片级写实渲染，不使用水彩或油画风格，不使用全彩，不使用柔和的数字渐变，不使用西方漫画风格，不使用3D渲染，不使用会分散观众对角色注意力的过于细致的背景。”
+“内容”：“手中不持武器（重点是魔法），画面中没有其他角色，背景不要过于杂乱，脚部被裁剪，脚部缺失，人物漂浮，脚踝被切断，脚部超出画面，手遮住脸部，头发完全遮住眼睛，表情闭合或中性（必须强烈而富有情感）。”
+"artifact_suppression": "无模糊线条、无数码绘画瑕疵、无颜色溢出、无抗锯齿柔化、无裁剪脚部、无缺失脚趾、无畸形脚部、无额外肢体、无解剖学上不可能的姿势、无不一致的线条粗细、无模糊或不清晰的线条。"
+}
+}
+```
+
+<a id="prompt-676"></a>
+## 案例 676：夜晚吐舌头女生的自拍照 (来源 [@xmliisu](https://x.com/xmliisu/status/1995499182207996193)) 模型：Grok
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/676.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-夜晚吐舌头女生的自拍照">
+</div>
+
+**提示词：**
+```
+[Image_Specifications]
+Type = Realistic Portrait
+Style = Douyin Aesthetic
+Resolution = High Quality
+
+[Subject_Details]
+Demographics = Young Asian woman
+Facial_Structure = 100% original face (no editing)
+Hair_Texture = Straight, shiny
+Hair_Color = Black
+Hair_Length = Long
+
+[Makeup_&_Styling]
+Style = Douyin-style
+Eye_Makeup = Highlights large eyes, long eyelashes
+Cheeks = Rosy
+Nails = Long, painted beautiful dark black
+
+[Apparel_&_Accessories]
+Eyewear = Thin silver-framed eyeglasses
+Top = Black strapless top with a single strap
+Waist_Accessory = Brown and gold striped fabric belt (tied in a bow)
+Necklace = Small silver Vivienne Westwood Orb pendant
+
+[Pose_&_Expression]
+Action = Taking a selfie
+Angle = From above
+Right_Arm = Raised, holding the phone
+Left_Hand = Holding a round black lollipop
+Expression = Confident gaze, tongue slightly sticking out
+
+[Environment_&_Background]
+Location = Outdoor parking lot
+Time_of_Day = Night
+Ground_Surface = Gray concrete with white parking lines
+Featured_Vehicle = Black Bugatti (visible grille and bumper)
+Lighting_Conditions = Dimly lit by street lamps and distant city lights
+```
+
+**中文提示词：**
+```
+[图像规格]
+类型 = 写实肖像
+风格 = 抖音美学
+分辨率 = 高质量
+
+[主题详情]
+人口统计 = 年轻亚裔女性
+面部结构 = 100% 原始面部（未经编辑）
+发质：直发，有光泽
+发色 = 黑色
+头发长度 = 长
+
+[化妆造型]
+风格 = 抖音风格
+眼妆 = 突出大眼睛和长睫毛
+脸颊 = 红润
+指甲 = 长长的，涂着漂亮的深黑色指甲油
+
+[服装及配饰]
+眼镜 = 细银框眼镜
+上衣 = 黑色单肩无肩带上衣
+腰部配饰 = 棕色和金色条纹布料腰带（系成蝴蝶结）
+项链 = 小型银色 Vivienne Westwood 球形吊坠
+
+[姿势与表情]
+行动 = 自拍
+角度 = 从上方
+右臂举起，拿着手机
+左手 = 拿着一个圆形的黑色棒棒糖
+表情 = 自信的眼神，舌头微微伸出
+
+[环境与背景]
+地点 = 室外停车场
+时间 = 夜晚
+地面 = 灰色混凝土，带有白色停车线
+特色车辆 = 黑色布加迪（可见格栅和保险杠）
+照明条件 = 由路灯和远处城市灯光昏暗照亮
+```
+
+<a id="prompt-675"></a>
+## 案例 675：同一张脸的柔和模糊的侧面特写 (来源 [@ShreyaYadav___](https://x.com/ShreyaYadav___/status/1995540914954272826)) 模型：Grok
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/675.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-同一张脸的柔和模糊的侧面特写">
+</div>
+
+**提示词：**
+```
+{
+  "prompt": "A full-body artistic portrait of the woman from the reference image, keeping the exact same face. She is elegantly seated on the floor wearing a modern black top, soft loose gray jeans, and chunky gray-and-white sneakers. Her long, waist-length wavy milky-brown hair flows naturally, with half of it beautifully braided. She is laughing while looking upwards, capturing a confident candid smile. The background is an artistic monochrome (black and white) composition featuring a soft, blurred close-up side profile of the same face, creating a stylish dual-layer aesthetic. High-quality soft lighting, realistic textures, cinematic realism, and an artistic portrait vibe.",
+  
+  "style": {
+    "lighting": "soft, high-quality, realistic",
+    "color_palette": "monochrome background, natural skin tones",
+    "mood": "confident, candid, artistic",
+    "quality": "ultra detailed, high-resolution"
+  },
+  
+  "camera": {
+    "shot": "full-body portrait",
+    "angle": "slightly low angle, upward gaze feel",
+    "focus": "sharp on subject, blurred artistic background"
+  },
+  
+  "character": {
+    "face": "same as reference image",
+    "expression": "laughing, confident smile",
+    "hair": "long wavy milky-brown, half braided",
+    "outfit": {
+      "top": "modern black top",
+      "bottom": "soft loose gray jeans",
+      "shoes": "chunky gray-and-white sneakers"
+    }
+  },
+  
+  "background": {
+    "type": "artistic monochrome",
+    "layers": "soft blurred close-up side profile of same face",
+    "effect": "stylish dual-layer aesthetic"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“提示”：“根据参考图片，绘制一位女士的全身艺术肖像，保留其面部特征。她优雅地坐在地板上，身着现代感十足的黑色上衣、宽松的灰色牛仔裤和厚底灰白运动鞋。她及腰的乳棕色长发自然垂落，一半编成精美的辫子。她仰望天空，笑容灿烂，展现出自信而真挚的神态。背景采用艺术化的黑白构图，柔和模糊的侧脸特写营造出时尚的双层美感。画面运用了高质量的柔光、逼真的纹理、电影般的写实感以及艺术肖像的氛围。”
+
+“风格”： {
+“照明”：“柔和、高质量、逼真”，
+"color_palette": "单色背景，自然肤色",
+“情绪”：“自信、坦率、有艺术气息”
+“质量”：“超精细，高分辨率”
+},
+
+“相机”： {
+“拍摄”: “全身肖像”
+“角度”：“略低的角度，向上凝视的感觉”，
+“焦点”： “主体清晰，背景虚化，富有艺术感”
+},
+
+“特点”： {
+“脸部”：“与参考图像相同”，
+“表情”：“笑着，自信的笑容”，
+“头发”：“长长的波浪状乳棕色头发，一半编成辫子”，
+“全套服装”： {
+“上衣”： “现代黑色上衣”，
+下装：柔软宽松的灰色牛仔裤，
+“鞋子”： “厚底灰白运动鞋”
+}
+},
+
+“背景”： {
+"type": "艺术单色",
+“图层”: “同一张脸的柔和模糊的侧面特写”，
+“效果”：“时尚的双层美感”
+}
+}
+```
+
+<a id="prompt-674"></a>
+## 案例 674：武当山山腰的一栋双层住宅 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1995668237787267575)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/674.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-武当山山腰的一栋双层住宅">
+</div>
+
+**中文提示词：**
+```
+一套详细的建筑设计蓝图，位于中国武当山山腰的一栋双层住宅。总建筑面积1600平方英尺（约148平方米）。包含一层平面图、二层平面图和前后立面图。布局设计为三间卧室。建筑风格为新中式，结合了传统武当山道教建筑元素与现代山地住宅特色：坡屋顶，青瓦，深色木构架梁柱，以及当地石材基座。图纸上带有尺寸标注线和建筑符号，专业建筑绘图风格，蓝底白线图。
+```
+
+<a id="prompt-673"></a>
+## 案例 673：3×3的美妆电商广告制作 (来源 [@Salmaaboukarr](https://x.com/Salmaaboukarr/status/1995473175233069217)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/673.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-3×3的美妆电商广告制作">
+</div>
+
+**提示词：**
+```
+Create an editorial photoreal 3×3 storyboard contact sheet for a high end beauty e commerce ad featuring only the following products: {{product_main}} and {{product_secondary}}
+
+Background {{background}}.  
+Lighting  {{lighting}}.  
+
+generate as one evenly spaced 3×3 grid.  
+
+{{panels}}
+```
+
+**中文提示词：**
+```
+为高端美妆电商广告制作一张 3×3 的写实风格故事板联系表，广告中仅包含以下产品： {{主产品}}和{{辅助产品}}
+
+背景{{背景}} 。
+照明{{照明}} 。
+
+生成一个等间距的 3×3 网格。
+
+{{面板}}
+```
+
+<a id="prompt-672"></a>
+## 案例 672：疯狂动物城朱迪和尼克 (来源 [@LiEvanna85716](https://x.com/LiEvanna85716/status/1995414338493108500)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/672.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-疯狂动物城朱迪和尼克">
+</div>
+
+**提示词：**
+```
+# Nano Banana Pro Configuration - Zootopia Cyber Fan Concept
+# Generated by AI Writing Assistant
+
+project_name: "Zootopia_Cyber_Fashion_Wink"
+model_base: "SDXL_Realistic_v4" # 假设的基础模型，可根据实际情况调整
+output_resolution: [896, 1152]  # 3:4 Ratio, optimized for Twitter feed
+
+character:
+  id: "cyber_judy_fan_01"
+  gender: "female"
+  age: "20s"
+  features:
+    - "delicate facial features"
+    - "playful expression"
+    - "winking one eye"
+    - "holding smartphone for selfie"
+
+scene:
+  location: "Zootopia official merchandise store"
+  lighting: "interior shop lighting, soft neon accents, volumetric bloom"
+  atmosphere: "lively, colorful, detailed background"
+
+prompts:
+  positive: |
+    (Masterpiece, 8k resolution, photorealistic, ultra-detailed),
+    POV selfie shot, beautiful young woman winking at camera,
+    wearing a futuristic metallic silver corset dress (iridescent texture:1.2),
+    wearing fluffy Judy Hopps rabbit ear hat (purple and grey),
+    holding a high-tech smartphone, selfie gesture,
+    background is a cluttered Zootopia souvenir shop,
+    shelves filled with Nick Wilde and Judy Hopps plush toys (fuzzy texture:1.3),
+    ZPD badges, carrots merchandise,
+    depth of field, ray tracing reflections on the metallic dress,
+    cinematic lighting, sharp focus on eyes and phone.
+
+  negative: |
+    (worst quality, low quality:1.4), monochrome, zombie,
+    deformed anatomy, disfigured, extra fingers, bad hands, 
+    missing fingers, floating limbs, disconnected limbs,
+    blur, out of focus, cropped head, watermark, text, signature,
+    distorted plushies, scary faces on toys.
+
+views:
+  - view_id: "main_selfie"
+    camera_angle: "high angle selfie"
+    focus: "face and upper body"
+    description: "The main engagement shot showing the wink and the outfit details."
+
+  - view_id: "outfit_detail"
+    camera_angle: "medium shot"
+    focus: "waist and background"
+    description: "Showcasing the metallic texture of the corset and the Zootopia merch in the back."
+
+# Advanced Settings for Nano Banana Pro
+sampling:
+  steps: 35
+  cfg_scale: 7.5
+  sampler: "DPM++ 2M Karras"
+  seed: -1 # Random
+```
+
+**中文提示词：**
+```
+# Nano Banana Pro 配置 - 疯狂动物城赛博粉丝概念
+# 由 AI 写作助手生成
+
+project_name: "疯狂动物城_赛博_时尚_眨眼"
+model_base: "SDXL_Realistic_v4" # 假设的基础模型，可根据实际情况调整
+output_resolution: [896, 1152]  # 3:4 比例，针对 Twitter 信息流优化
+
+character:
+  id: "赛博_朱迪_粉丝_01"
+  gender: "女性"
+  age: "20多岁"
+  features:
+    - "精致的五官"
+    - "顽皮/俏皮的表情"
+    - "眨一只眼"
+    - "手持智能手机自拍"
+
+scene:
+  location: "疯狂动物城官方周边商店"
+  lighting: "室内商店照明，柔和的霓虹点缀，体积光（光晕）"
+  atmosphere: "生动活泼，色彩丰富，背景细节详实"
+
+prompts:
+  positive: |
+    (杰作, 8k分辨率, 照片级真实, 超精细),
+    第一人称视角（POV）自拍镜头, 美丽的年轻女性对着镜头眨眼,
+    身穿未来感金属银色紧身胸衣连衣裙 (彩虹色纹理:1.2),
+    戴着毛茸茸的朱迪警官（Judy Hopps）兔耳帽 (紫色和灰色),
+    手持高科技智能手机, 自拍姿势,
+    背景是琳琅满目的疯狂动物城纪念品商店,
+    货架上摆满了尼克（Nick Wilde）和朱迪（Judy Hopps）的毛绒玩具 (毛绒纹理:1.3),
+    ZPD（动物城警局）警徽, 胡萝卜周边商品,
+    景深效果, 金属裙上的光线追踪反射,
+    电影级布光, 焦点清晰对准眼睛和手机。
+
+  negative: |
+    (最差质量, 低质量:1.4), 单色, 僵尸,
+    解剖结构变形, 毁容, 多余的手指, 坏手, 
+    缺失手指, 悬浮肢体, 断肢,
+    模糊, 失焦, 截断的头部, 水印, 文字, 签名,
+    扭曲的毛绒玩具, 玩具有可怕的脸。
+
+views:
+  - view_id: "main_selfie"
+    camera_angle: "高角度/俯拍自拍"
+    focus: "脸部和上半身"
+    description: "展示眨眼表情和服装细节的主要互动镜头。"
+
+  - view_id: "outfit_detail"
+    camera_angle: "中景镜头"
+    focus: "腰部和背景"
+    description: "展示紧身胸衣的金属质感以及后方的疯狂动物城周边商品。"
+
+# Nano Banana Pro 高级设置
+sampling:
+  steps: 35
+  cfg_scale: 7.5
+  sampler: "DPM++ 2M Karras"
+  seed: -1 # 随机
+```
+
+<a id="prompt-671"></a>
+## 案例 671：星座运势卡 (来源 [@cnyzgkc](https://x.com/cnyzgkc/status/1995423285060976700)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/671.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-星座运势卡">
+</div>
+
+**中文提示词：**
+```
+请先帮我搜索「星座名」今天的最新运势，重点包含：整体运势、爱情运、事业运、财运，以及今天的幸运色与幸运数字。接着，请根据今天的运势内容，使用 Nano Banana Pro 绘制一张 文青手绘平面插画风格的星座运程故事卡片，需要 精美排版与丰富元素设计、简体中文、2K、2:3 比例。
+```
+
+<a id="prompt-670"></a>
+## 案例 670：年轻女子对着镜子自拍旁边是朱迪 (来源 [@awesome_visuals](https://x.com/awesome_visuals/status/1995071645002747918)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/670.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-年轻女子对着镜子自拍旁边是朱迪">
+</div>
+
+**提示词：**
+```
+{ "subject": "beautiful young woman mirror selfie in Disney store", "outfit": "strapless white ruched mini dress, pearl necklace", "headwear": "fluffy orange Nick Wilde fox-ear hat with green eyes", "phone": "yellow iPhone", "reflection_companion": "life-size Judy Hopps police plush in uniform standing next to her", "setting": "bright Zootopia section, shelves packed with plushies, festive lights", "style": "playful wink, cute and flirty Disney selfie" }
+```
+
+**中文提示词：**
+```
+{ "subject": "迪士尼商店里一位美丽的年轻女子对着镜子自拍", "outfit": "白色无肩带褶皱迷你连衣裙，珍珠项链", "headwear": "毛茸茸的橙色尼克·王尔德狐狸耳朵帽，绿色眼睛", "phone": "黄色iPhone", "reflection_companion": "她旁边站着一个真人大小的朱迪·霍普斯警官毛绒玩具，身穿制服", "setting": "明亮的疯狂动物城专区，货架上摆满了毛绒玩具，节日彩灯闪烁", "style": "俏皮的眨眼，可爱又略带挑逗的迪士尼自拍" }
+```
+
+<a id="prompt-669"></a>
+## 案例 669：女子在迪士尼商店里对着镜子自拍 (来源 [@_MehdiSharifi_](https://x.com/_MehdiSharifi_/status/1995230929158320332)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/669.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-女子在迪士尼商店里对着镜子自拍">
+</div>
+
+**提示词：**
+```
+{
+  "scene_description": "A soft, kawaii aesthetic mirror selfie of a cute young woman in a Disney store, embracing a fluffy pink Aristocats theme.",
+  "image_reference": {
+    "path": "[UPLOADED_IMAGE]",
+    "weight": "high",
+    "influence": "face_and_body_structure"
+  },
+  "subject": {
+    "type": "The woman from the uploaded image",
+    "age": "match input image",
+    "features": {
+      "hair": "soft curls or twin tails with ribbons",
+      "expression": "sweet smile, head tilted, eyes wide and innocent",
+      "makeup": "heavy blush (igari style), pink glossy lips, soft lashes"
+    },
+    "attire": "a fluffy white off-shoulder sweater dress (angora texture) with pink satin ribbons tied on the sleeves, white knee-high knitted socks",
+    "accessories": "white cat ears headband with pink bows (Marie style), holding a pink strawberry milkshake prop, pearl bracelet",
+    "position": "standing with knees slightly bent together (cute pose), holding phone with both hands."
+  },
+  "action": {
+    "primary": "taking a cute selfie",
+    "secondary": "holding a drink",
+    "effect": "radiating softness and charm"
+  },
+  "environment": {
+    "setting": "Pastel plushie section of Disney store",
+    "foreground_elements": [
+      "pink phone case with charms",
+      "fluffy texture of dress close to lens"
+    ],
+    "background_elements": [
+      "stacks of pink and white plushies",
+      "pastel floral decor",
+      "soft retail lighting"
+    ]
+  },
+  "lighting": {
+    "style": "Soft diffused beauty light",
+    "key_light": {
+      "type": "Ring light effect",
+      "color": "Soft pink/peach undertone",
+      "illuminates": "rosy cheeks and fluffy textures."
+    },
+    "background_light": {
+      "color": "Pastel pink glow"
+    },
+    "shadows": "very soft, almost non-existent shadows"
+  },
+  "style": {
+    "medium": "Smartphone photography",
+    "aesthetic": "Coquette, Kawaii, Soft Girl, Pastel Goth light",
+    "quality": "Dreamy, soft focus edges",
+    "details": "visible fluff on sweater"
+  },
+  "visual_description": {
+    "core_subject": "An embodiment of cuteness and comfort.",
+    "attire_physics": "The sweater looks incredibly soft and touchable; ribbons drape naturally.",
+    "skin_rendering": "Soft-focus, airbrushed look (beauty filter simulation)."
+  },
+  "lighting_and_atmosphere": {
+    "type": "Dreamy Interior",
+    "specifics": "Bloom effect on highlights.",
+    "color_grade": "Pastel palette, low contrast, rosy tint"
+  },
+  "attire_customization": {
+    "current_clothing": "Fluffy white sweater dress, pink ribbons, knee socks",
+    "customizable_clothing": "Can swap for a pink gingham sundress."
+  },
+  "camera_and_lens": {
+    "focal_length_feel": "35mm",
+    "aperture_effect": "f/2.0",
+    "camera_angle": "Slightly high angle (selfie standard)",
+    "lens_type": "Smartphone front camera simulation",
+    "bokeh_style": "Creamy pastel bokeh"
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"scene_description": "一位可爱年轻女子在迪士尼商店里对着镜子自拍，照片风格柔和可爱，以蓬松的粉色《猫儿历险记》主题为特色。"
+"image_reference": {
+"路径": "[上传的图像]",
+"重量": "高",
+“影响”： “面部和身体结构”
+},
+“主题”： {
+"type": "上传图片中的女子",
+“年龄”： “匹配输入图像”，
+“特征”： {
+“头发”：“柔软的卷发或用丝带扎成的双马尾辫”，
+“表情”：“甜美的微笑，歪着头，睁大眼睛，显得天真无邪”，
+妆容：浓重的腮红（伊加里风格），粉嫩亮泽的嘴唇，柔软的睫毛
+},
+“服装”：“一件蓬松的白色露肩毛衣连衣裙（安哥拉羊毛质地），袖子上系着粉色缎带，白色及膝针织袜”，
+“配饰”：“白色猫耳朵发箍，配粉色蝴蝶结（玛丽风格），手持粉色草莓奶昔道具，珍珠手链”
+“姿势”：“双膝微屈并拢站立（可爱姿势），双手拿着手机。”
+},
+“行动”： {
+“主要”: “拍一张可爱的自拍”，
+“次要的”: “拿着饮料”，
+“效果”：“散发柔和与魅力”
+},
+“环境”： {
+“场景”：“迪士尼商店的粉彩毛绒玩具区”，
+"前景元素": [
+“粉色带挂饰的手机壳”
+“镜头前裙子的蓬松质感”
+],
+“背景元素”：[
+“一堆堆粉色和白色的毛绒玩具”，
+“粉彩花卉装饰”，
+“柔和的零售照明”
+]
+},
+“灯光”： {
+“风格”：“柔和漫射的美光”，
+"key_light": {
+“类型”：“环形灯效果”，
+“颜色”： “柔和的粉色/桃色底调”，
+“照亮”：“红润的脸颊和蓬松的质地。”
+},
+"background_light": {
+“颜色”： “柔和的粉红色光芒”
+},
+“阴影”： “非常柔和，几乎不存在的阴影”
+},
+“风格”： {
+“媒介”：“智能手机摄影”，
+“美学”：“娇媚、可爱、柔美少女、柔和哥特风”
+“品质”：“梦幻般的柔焦边缘”，
+“细节”：“毛衣上有明显的绒毛”
+},
+"visual_description": {
+核心主题：可爱与舒适的化身。
+“attire_physics”：“这件毛衣看起来非常柔软，触感极佳；丝带垂坠感也很自然。”
+"skin_rendering": "柔焦、喷枪效果（美颜滤镜模拟）"
+},
+"lighting_and_atmosphere": {
+"type": "梦幻内饰",
+“具体细节”：“高光部分的绽放效果。”
+"color_grade": "柔和色调，低对比度，玫瑰色"
+},
+"attire_customization": {
+"current_clothing": "蓬松的白色毛衣连衣裙，粉色丝带，及膝袜"
+"customizable_clothing": "可以换成粉色格子连衣裙。"
+},
+"camera_and_lens": {
+"focal_length_feel": "35mm",
+"aperture_effect": "f/2.0",
+"camera_angle": "略高角度（自拍标准）",
+"lens_type": "智能手机前置摄像头模拟",
+"bokeh_style": "奶油粉彩散景"
+}
+}
+```
+
+<a id="prompt-668"></a>
+## 案例 668：城市俯视等距3D卡通微缩场景 (来源 [@PavolRusnak](https://x.com/PavolRusnak/status/1995165498774802607)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/668.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市俯视等距3D卡通微缩场景">
+<img src="./images/668-2.jpeg" style="width: 48%;" alt="Awesome GPT4o/GPT-4o Image Prompts-城市俯视等距3D卡通微缩场景">
+</div>
+
+**提示词：**
+```
+Present a clear, 45° top-down isometric miniature 3D cartoon scene of [CITY], featuring its most iconic landmarks and architectural elements. Use soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadows. Integrate the current weather conditions directly into the city environment to create an immersive atmospheric mood.
+Use a clean, minimalistic composition with a soft, solid-colored background.
+
+At the top-center, place the title “[CITY]” in large bold text, a prominent weather icon beneath it, then the date (small text) and temperature (medium text).
+All text must be centered with consistent spacing, and may subtly overlap the tops of the buildings.
+Square 1080x1080 dimension.
+```
+
+**中文提示词：**
+```
+呈现[城市]的清晰45°俯视等距3D卡通微缩场景，展现其最具标志性的地标和建筑元素。使用柔和细腻的纹理、逼真的PBR材质以及柔和自然的灯光和阴影。将当前天气状况直接融入城市环境，营造身临其境的氛围。
+使用简洁的极简主义构图，搭配柔和的纯色背景。
+
+在顶部中心位置，用粗体大字显示标题“[城市]”，在其下方放置一个醒目的天气图标，然后是日期（小字）和温度（中字）。
+所有文字必须居中，间距一致，并且可以略微与建筑物顶部重叠。
+正方形，尺寸为 1080x1080。
+```
+
+<a id="prompt-667"></a>
+## 案例 667：超写实风格真实和卡通分离效果 (来源 [@ZaraIrahh](https://x.com/ZaraIrahh/status/1995304550610407807)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/667.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-超写实风格真实和卡通分离效果">
+</div>
+
+**提示词：**
+```
+{
+  "image_generation": {
+    "requirements": {
+      "face_preservation": {
+        "preserve_original": true,
+        "accuracy_level": "100% identical to reference",
+        "details": [
+          "real facial proportions",
+          "exact skin texture",
+          "true eye shape and color",
+          "natural soft makeup",
+          "subtle upward eyeliner",
+          "soft pink eyeshadow",
+          "natural rosy lips"
+        ]
+      },
+      "pose": {
+        "match_reference_pose": true,
+        "description": "Chest-up portrait, face facing forward but gently tilted to the right from the viewer’s perspective."
+      },
+      "lighting": {
+        "match_reference_lighting": true,
+        "type": "soft diffused indoor lighting",
+        "direction": "from the front and slightly from the left",
+        "shadows": "gentle soft shadows on the sides of the face and neck",
+        "background_tone": "soft neutral with slight bluish tint"
+      }
+    },
+
+    "subject": {
+      "gender": "female",
+      "hairstyle": {
+        "match_reference": true,
+        "description": "same exact hairstyle as in reference image"
+      },
+      "expression": "neutral, slightly thoughtful",
+      "clothing": {
+        "top": "simple black T-shirt",
+        "necklace": "thin silver necklace with a small minimal pendant"
+      }
+    },
+
+    "composition": {
+      "frame": "chest-up portrait",
+      "orientation": "frontal with slight rightward tilt",
+      "style": "hyper-realistic with split real/cartoon effect"
+    },
+
+    "special_effects": {
+      "split_effect": {
+        "type": "irregular centered tear",
+        "edges": "white angled torn-paper look",
+        "description": "image appears ripped down the middle"
+      },
+
+      "realistic_side": {
+        "background": "soft, neutral, slightly bluish environment",
+        "filters": [
+          "soft analog grain",
+          "lightly aged texture",
+          "reduced saturation",
+          "subtle film imperfections"
+        ],
+        "overlays": [
+          "blue stylized teardrop stickers below the left eye",
+          "small 'Zzz' sleep symbols near forehead",
+          "yellow crescent moon in upper-left corner",
+          "light blue hand-drawn cloud"
+        ]
+      },
+
+      "illustrated_side": {
+        "art_style": "bold cartoon, digital illustration",
+        "color_palette": "bright, vibrant, saturated",
+        "hair": "same tone as realistic side but stylized",
+        "eyes": "exaggerated eyeliner, dramatic expression",
+        "background": "vibrant light pink pop-art style",
+        "decorations": {
+          "kawaii_elements": [
+            "Hello Kitty holding a microphone",
+            "pixel-art pink mascot character",
+            "yellow stars",
+            "pink hearts",
+            "colorful planets",
+            "bold pink Japanese characters"
+          ]
+        }
+      }
+    },
+
+    "aesthetic": {
+      "overall_tone": "soft, dreamy, lightly vintage",
+      "lighting_consistency": "must match reference perfectly",
+      "skin_texture_realism": "high",
+      "blending_quality": "smooth, natural transition between real and illustrated halves with crisp tear edge"
+    },
+
+    "output": {
+      "style": "hyper-realistic + digital cartoon fusion",
+      "quality": "ultra-high-resolution",
+      "filters": [
+        "subtle analog vintage film filter",
+        "soft grain"
+      ]
+    }
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+"image_generation": {
+“要求”： {
+"面保存": {
+"preserve_original": true,
+"accuracy_level": "与参考值100%相同"
+“细节”： [
+“真实的脸部比例”，
+“精准的肌肤纹理”，
+“真实的眼睛形状和颜色”，
+“自然柔和的妆容”，
+“淡淡的上扬眼线”，
+“柔和的粉色眼影”，
+“自然红润的嘴唇”
+]
+},
+"姿势": {
+"match_reference_pose": true,
+“描述”：“胸部以上的肖像，脸部朝前，但从观看者的角度来看略微向右倾斜。”
+},
+“灯光”： {
+"match_reference_lighting": true,
+“类型”：“柔和漫射室内照明”，
+“方向”：“从前方略偏左”，
+“阴影”：“脸颊和颈部两侧柔和的阴影”，
+"background_tone": "柔和的中性色，略带蓝色调"
+}
+},
+
+“主题”： {
+"性别": "女性",
+"发型": {
+"match_reference": true,
+描述：与参考图中完全相同的发型
+},
+“表情”：“中性，略带沉思”
+“衣服”： {
+上衣：一件简单的黑色T恤，
+“项链”： “带有小巧简约吊坠的细银项链”
+}
+},
+
+“作品”： {
+“画框”：“胸部以上肖像”，
+“方向”: “正面略微向右倾斜”
+“风格”：“超写实风格，带有真实/卡通分离效果”
+},
+
+"特效": {
+"split_effect": {
+“类型”：“不规则中心撕裂”，
+“边缘”：“白色斜角撕纸效果”，
+描述：图像似乎从中间撕裂开来
+},
+
+"realistic_side": {
+“背景”：“柔和、中性、略带蓝色的环境”，
+“过滤器”：[
+“柔和的模拟颗粒”，
+“略带陈旧的质感”，
+“饱和度降低”，
+“细微的胶片瑕疵”
+],
+“叠加层”：[
+“左眼下方贴有蓝色水滴形贴纸”，
+“额头附近有小小的‘Zzz’睡眠符号”，
+“左上角的黄色新月”
+“浅蓝色手绘云朵”
+]
+},
+
+"illustrated_side": {
+"art_style": "大胆的卡通，数字插画",
+"color_palette": "明亮、鲜艳、饱和"
+“头发”：“与写实风格相同，但风格化”，
+“眼睛”：“夸张的眼线，戏剧性的表情”，
+“背景”：“充满活力的浅粉色波普艺术风格”，
+“装饰”： {
+"kawaii_elements": [
+“Hello Kitty 拿着麦克风”
+“像素艺术粉色吉祥物角色”，
+“黄色星星”，
+“粉红色的心”，
+“色彩斑斓的行星”，
+“粗体粉色日文字符”
+]
+}
+}
+},
+
+“审美的”： {
+整体色调：柔和、梦幻、略带复古感
+"lighting_consistency": "必须与参考完全一致",
+"skin_texture_realism": "高",
+"blending_quality": "真实部分与插图部分之间过渡平滑自然，撕裂边缘清晰"
+},
+
+“输出”： {
+“风格”：“超写实+数字卡通融合”，
+“质量”：“超高分辨率”，
+“过滤器”：[
+“微妙的模拟复古胶片滤镜”，
+“软粒”
+]
+}
+}
+}
+```
+
+<a id="prompt-666"></a>
+## 案例 666：极近距离的自拍照 (来源 [@IamEmily2050](https://x.com/IamEmily2050/status/1995065474749730989)) 模型：Nano banana pro
+
+<div style="display: flex; justify-content: space-between;">
+<img src="./images/666.jpeg" style="width: 98%;" alt="Awesome GPT4o/GPT-4o Image Prompts-极近距离的自拍照">
+</div>
+
+**提示词：**
+```
+{
+  "intent": "Generate a hyper-idealized, 'Douyin-aesthetic' portrait of a young woman at night, utilizing direct flash photography to create a high-contrast, ethereal look with clear weather conditions.",
+  "frame": {
+    "aspect_ratio": "9:16",
+    "composition": "Extreme close-up selfie framing (tighter than standard portrait), cutting off the top of the forehead to focus intensely on the eyes and lips. The subject is centered with a direct, confronting gaze.",
+    "style_mode": "Flash photography, digital influencer aesthetic, soft-focus realism."
+  },
+  "subject": {
+    "identity": "A young Asian woman, approximately 20 years old, with hyper-symmetrical, doll-like features characterized by the 'bunny tongue' and 'puppy eye' aesthetic.",
+    "skin": "Pale, cool-toned porcelain complexion with zero texture. The skin reflects the flash, creating a 'mochi' or 'glass skin' effect that appears soft and translucent. High-key brightness on the T-zone.",
+    "eyes": "Large, round eyes with a slight downward tint at the outer corners (puppy dog eyes). Prominent 'aegyosal' (under-eye fat bands) are highlighted to enhance youthfulness. The irises are soft brown with a large diameter. Eyelashes are styled in the 'manhwa' or 'idol' style: distinct, vertical clumps of mascara-coated lashes separated by space, rather than a dense fan.",
+    "nose": "Petite, low-bridge nose with a small, rounded tip. The lighting minimizes the nostril definition, making the nose appear delicate and unobtrusive.",
+    "mouth": "Heart-shaped lips featuring a 'gradient lip' technique. The center of the lips is a saturated, glossy strawberry pink, fading outward to a blurred, pale nude at the vermilion border. The texture is soft and hydrated.",
+    "hair": "Long, silky jet-black hair with a straight texture. Without the snow, the hair is dry, sleek, and tucked slightly behind the ears or framing the face smoothly, catching the flash with a white sheen.",
+    "wardrobe": "Minimal visibility, suggesting a stylish but casual top appropriate for a pleasant evening."
+  },
+  "environment": {
+    "location": "Urban night setting.",
+    "weather": "Clear, calm, and beautiful night weather. The atmosphere is clean and free of precipitation or fog.",
+    "background": "A backdrop of deep black shadows punctuated by creamy, circular bokeh from distant city lights (streetlamps, neon signs). The background is significantly darker than the subject, ensuring the face is the sole focus."
+  },
+  "lighting": {
+    "type": "Direct, frontal camera flash or high-intensity screen light.",
+    "quality": "Hard but flattering light that flattens facial topography, eliminating shadows under the eyes and nose. This creates a 2D, illustrative quality common in high-end social media selfies.",
+    "contrast": "High contrast between the brightly illuminated face and the pitch-black environment.",
+    "catchlight": "Sharp, tiny pinpoint reflection in the center of the pupils from the flash."
+  },
+  "camera": {
+    "sensor_format": "Smartphone main sensor simulation.",
+    "lens": "24mm wide-angle lens. This focal length slightly exaggerates the size of the eyes and diminishes the size of the nose and face width, contributing to the 'baby face' proportion.",
+    "aperture_depth_of_field": "f/1.8 to f/2.2, keeping the eyes and lips razor sharp while instantly blurring the ears and background.",
+    "focus": "Critical focus on the eyelashes and iris texture."
+  },
+  "negative": {
+    "content": "No snow, no rain, no wet hair, no masculine jawline, no skin texture, no pores, no heavy contouring, no western makeup style, no sunglasses, no hand near face.",
+    "style": "No cinematic dramatic shadows (must be flat lit), no warm vintage tones, no painting, no illustration."
+  }
+}
+```
+
+**中文提示词：**
+```
+{
+“意图”：“在晴朗的天气条件下，利用直接闪光灯摄影，在夜晚创作一张极具理想化、‘抖音美学’风格的年轻女性肖像，以营造高对比度、空灵的视觉效果。”
+“框架”： {
+"aspect_ratio": "9:16",
+“构图”：“极近距离的自拍取景（比标准肖像照更近），裁掉额头顶部，将焦点集中在眼睛和嘴唇上。拍摄对象位于画面中心，目光直视前方。”
+"style_mode": "闪光灯摄影、数码网红美学、柔焦写实主义。"
+},
+“主题”： {
+“身份描述”：“一位大约20岁的年轻亚裔女性，拥有高度对称、娃娃般的五官，其特征是‘兔舌’和‘小狗眼’。”
+“肌肤”：苍白、冷调的瓷白肤色，几乎没有纹理。肌肤反射闪光灯，呈现出“麻糬”或“玻璃肌”的效果，看起来柔和通透。T区高光突出。
+“眼睛”：大而圆的眼睛，外眼角略微下垂（小狗眼）。突出的眼下脂肪纹（眼袋）增添了青春气息。虹膜呈柔和的棕色，直径较大。睫毛采用“漫画”或“偶像”风格：睫毛根根分明，呈垂直的簇状，涂抹睫毛膏，彼此之间留有空隙，而不是浓密的扇形。
+“鼻子”：“小巧的鼻子，鼻梁较低，鼻尖小而圆润。光线柔和地弱化了鼻孔的轮廓，使鼻子看起来精致而不突兀。”
+“唇部”：心形唇妆，采用渐变唇妆技术。唇部中央是饱满亮泽的草莓粉色，向外晕染至唇线边缘的浅裸色。质地柔软水润。
+“头发”： “长长的、丝滑的乌黑直发。没有雪的时候，头发干燥顺滑，微微别在耳后或柔顺地垂在脸颊两侧，在闪光灯下泛着白色的光泽。”
+“衣橱”：“低调的款式，暗示着一件时尚休闲的上衣，适合愉快的夜晚穿着。”
+},
+“环境”： {
+“地点”：“都市夜景。”
+天气：晴朗、平静、美丽的夜晚。大气洁净，无降水或雾。
+“背景”：“深黑色的阴影背景中点缀着远处城市灯光（路灯、霓虹灯）投射出的柔和圆形散景。背景明显比主体暗，从而确保面部成为唯一的焦点。”
+},
+“灯光”： {
+“类型”：“直接闪光灯、前置摄像头闪光灯或高强度屏幕闪光灯。”
+“品质”：“硬朗但柔和的光线，使面部轮廓更加平滑，消除眼下和鼻下的阴影。这营造出一种二维的、插画般的质感，常见于高端社交媒体自拍中。”
+“对比度”：“明亮的脸部与漆黑的环境形成鲜明对比。”
+“眼神光”：“闪光灯照射到瞳孔中心时，形成的一个清晰、细小的点状反射光。”
+},
+“相机”： {
+"sensor_format": "智能手机主传感器模拟。",
+“镜头”：“24mm广角镜头。这种焦距会略微放大眼睛，缩小鼻子和脸部宽度，从而营造出‘娃娃脸’的比例。”
+"aperture_depth_of_field": "f/1.8 至 f/2.2，保持眼睛和嘴唇清晰锐利，同时立即虚化耳朵和背景。"
+“焦点”：“重点关注睫毛和虹膜的纹理。”
+},
+“消极的”： {
+“内容”：“没有雪，没有雨，没有湿头发，没有男性化的下巴线条，没有皮肤纹理，没有毛孔，没有浓重的修容，没有西式妆容，没有太阳镜，没有手靠近脸部。”
+“风格”：“禁止使用电影般的戏剧性阴影（必须采用平光），禁止使用温暖的复古色调，禁止使用绘画风格，禁止使用插画风格。”
+}
+}
+```
 
 <a id="prompt-665"></a>
 ## 案例 665：外卖员的写真照 (来源 [@songguoxiansen](https://x.com/songguoxiansen/status/1995385148792263095)) 模型：Nano banana pro
